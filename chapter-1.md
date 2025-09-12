@@ -8,7 +8,7 @@
   <p><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
 </div>
 
-<h3 align="center">Relación de Integrantes:</h3>
+<h2 align="center">Relación de Integrantes:</h3>
 
 <div align="center">
   <table>
@@ -114,7 +114,7 @@
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4 Ubiquitous Language](#24-ubiquitous-language)
--[Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2 User Stories](#32-user-stories)
   - [3.3 Impact Mapping](#33-impact-mapping)
@@ -176,22 +176,22 @@
 <table border>
   <thead>
     <tr>
-      <th><b>Criterio Específico</b></th>
+      <th width="25%"><b>Criterio Específico</b></th>
       <th><b>Acciones Realizadas</b></th>
       <th><b>Conclusiones</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>CRITERIO 1</b></td>
+      <td width="25%"><b>Comunica oralmente con efectividad a rangos de audiencia</b></td>
       <td>
-        <b>Giorgio Marzouk Awad Vargas</b><br>
+        <b>Giorgio Awad</b><br>
         TB1: -<br>
         <b>Manuel Sanchez</b><br>
         TB1: -<br>
-        <b>Saul Ortega Muñoz</b><br>
+        <b>Saul Ortega</b><br>
         TB1: -<br>
-        <b>Alberto Alejandro Ponce Perales</b><br>
+        <b>Alberto Ponce</b><br>
         TB1: -<br>
       </td>
       <td>
@@ -199,15 +199,15 @@
       </td>
     </tr>
     <tr>
-      <td><b>CRITERIO 2</b></td>
+      <td width="25%"><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
       <td>
-        <b>Giorgio Marzouk Awad Vargas</b><br>
+        <b>Giorgio Awad</b><br>
         TB1: -<br>
         <b>Manuel Sanchez</b><br>
         TB1: -<br>
-        <b>Saul Ortega Muñoz</b><br>
+        <b>Saul Ortega</b><br>
         TB1: -<br>
-        <b>Alberto Alejandro Ponce Perales</b><br>
+        <b>Alberto Ponce</b><br>
         TB1: -<br>
       </td>
       <td>
@@ -256,8 +256,7 @@
       <td><img src="assets/chapter-1/foto-saul.png" alt="Saul Ortega Muñoz" width="80"></td>
       <td>Saul Ortega Muñoz</td>
       <td>u20231c019</td>
-      <td>-</td>
-      <td>-</td>
+      <td>-</td>      <td>-</td>
     </tr>
     <tr>
       <td><img src="assets/chapter-1/foto-alejandro.png" alt="Alberto Alejandro Ponce Perales" width="80"></td>
@@ -275,9 +274,44 @@
 
 ### 1.2.1 Antecedentes y problemática
 
+- **What? (¿Qué?)**  
+  La problemática principal es la falta de un sistema centralizado y digital para gestionar los pedidos de combustible, lo que genera errores humanos, duplicación de esfuerzos y retrasos en las entregas.
+
+- **When? (¿Cuándo?)**  
+  El problema se presenta constantemente en el proceso de gestión de pedidos, especialmente cuando hay un alto volumen de solicitudes o múltiples pedidos a coordinar.
+
+- **Where? (¿Dónde?)**  
+  El problema ocurre en empresas solicitantes de combustible y proveedores, tanto en áreas urbanas como rurales, donde la infraestructura digital aún no está optimizada.
+
+- **Who? (¿Quién?)**  
+  Los principales afectados son las empresas solicitantes (medianas y grandes), los proveedores de combustible y los encargados de la logística y gestión de pedidos.
+
+- **Why? (¿Por qué?)**  
+  El problema radica en la falta de integración entre los métodos actuales de gestión (como correos y aplicaciones de mensajería), que dificultan un control centralizado y preciso de los pedidos.
+
+- **How? (¿Cómo?)**  
+  Los procesos actuales son desorganizados, utilizando diversas plataformas desconectadas, lo que impide tener un flujo de trabajo eficiente y controlado.
+
+- **How Much? (¿Cuánto?)**  
+  La magnitud del problema es considerable, pues cada día se pierden horas valiosas debido a la ineficiencia y los errores, lo que incrementa los costos operativos y puede generar pérdidas económicas significativas.
+
 ### 1.2.2 Lean UX Process
 
+Para el desarrollo de FuelTrack, utilizamos el enfoque Lean UX, que nos permite validar nuestras hipótesis, enfocarnos en la experiencia del usuario y reducir riesgos desde las etapas iniciales. A través de prototipos, pruebas con empresas, simulaciones y ciclos de retroalimentación continua, adaptamos nuestra plataforma a las necesidades reales del mercado de combustible.
+
 #### 1.2.2.1 Lean UX Problem Statements
+ 
+**Solicitantes de Combustible (Empresas Compradoras)**
+- **Problema:** Empresas de sectores industriales, mineros y de construcción coordinan sus pedidos de combustible mediante canales informales (llamadas, correos, mensajería), lo que genera desorganización, errores y ausencia de trazabilidad. 
+- **Impacto:** Incertidumbre sobre el estado de los despachos y posibles interrupciones en sus operaciones debido a errores por mala coordinación.  
+- **Riesgo:** La facilidad a la adaptación puede verse afectada si la plataforma no es intuitiva o no se adapta a procesos actuales.  
+- **How Might We...?:** ¿Cómo podemos diseñar una experiencia que permita registrar y gestionar pedidos en menos de 3 minutos, con tasa de error <5% y adopción del 80% en el primer mes?  
+
+**Proveedores de Combustible (Empresas Distribuidoras)**
+- **Problema:** Gestionan múltiples pedidos, conciliaciones y despachos con procesos manuales, lo que aumenta la carga administrativa (asumida por los operadores del área) y el riesgo de errores logísticos.  
+- **Impacto:** Baja eficiencia operativa y menor satisfacción del cliente.  
+- **Riesgo:** Posible resistencia a la implementación si los beneficios no son inmediatos.  
+- **How Might We...?:** ¿Cómo podemos demostrar que nuestra plataforma reduce el tiempo de gestión en un 40%, disminuye errores logísticos en un 60% y mejora la satisfacción del cliente en +1 punto en encuestas durante los primeros 3 meses?  
 
 #### 1.2.2.2 Lean UX Assumptions
 
