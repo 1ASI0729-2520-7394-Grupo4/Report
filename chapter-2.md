@@ -26,4 +26,39 @@
 
 ### 2.3.5. As-is Scenario Mapping.
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>FASES</th>
+      <th>Comunicación</th>
+      <th>Solicitar pedido</th>
+      <th>Seguimiento</th>
+      <th>Entrega</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DOING</strong></td>
+      <td>Llamadas, correos, WhatsApp sin orden.</td>
+      <td>El solicitante explica los datos del pedido a mano.</td>
+      <td>Se hacen llamadas para preguntar por el estado.</td>
+      <td>Se confirma por llamada o mensaje.</td>
+    </tr>
+    <tr>
+      <td><strong>THINKING</strong></td>
+      <td>"¿Habrán recibido mi mensaje?"</td>
+      <td>"¿Me habrán entendido bien?"</td>
+      <td>"¿Dónde estará nuestro pedido?"</td>
+      <td>"¿Ya habrán llegado?"</td>
+    </tr>
+    <tr>
+      <td><strong>FEELING</strong></td>
+      <td>Frustración, desorganización.</td>
+      <td>Incertidumbre, falta de confianza.</td>
+      <td>Ansiedad, impaciencia.</td>
+      <td>Duda, estrés.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 2.4. Ubiquitous Language.
