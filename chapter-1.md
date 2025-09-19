@@ -78,6 +78,9 @@
 **Link del repositorio del informe:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/Report](https://github.com/1ASI0729-2520-7394-Grupo4/Report)
 
+**Link del repositorio de la Landing Page:**  
+[https://github.com/1ASI0729-2520-7394-Grupo4/landing-page](https://github.com/1ASI0729-2520-7394-Grupo4/landing-page)
+
 **Link de los repositorios de la organización:**  
 [https://github.com/orgs/1ASI0729-2520-7394-Grupo4/repositories](https://github.com/orgs/1ASI0729-2520-7394-Grupo4/repositories)
 
@@ -188,7 +191,7 @@
         <b>Giorgio Awad</b><br>
         TB1: -<br>
         <b>Manuel Sanchez</b><br>
-        TB1: -<br>
+        TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
         <b>Saul Ortega</b><br>
         TB1: -<br>
         <b>Alberto Ponce</b><br>
@@ -204,7 +207,7 @@
         <b>Giorgio Awad</b><br>
         TB1: -<br>
         <b>Manuel Sanchez</b><br>
-        TB1: -<br>
+        TB1: Para esta entrega le di prioridad a la explicación de nuestra propuesta, problemática, hipótesis, etc.<br>
         <b>Saul Ortega</b><br>
         TB1: -<br>
         <b>Alberto Ponce</b><br>
@@ -224,6 +227,12 @@
 ## 1.1 Startup Profile
 
 ### 1.1.1 Descripción de la Startup
+
+**FuelTrack**: Startup innovador dedicado a la gestión de la compraventa de combustible entre empresas solicitantes y proveedores. Fundada por estudiantes de la Universidad Peruana de Ciencias Aplicadas, nuestra propuesta se centra en la digitalización de un sector tradicionalmente dependiente de procesos manuales, brindando una solución tecnológica que garantiza eficiencia, transparencia y un control más riguroso de las operaciones. 
+
+**Misión**: Nuestra misión es desarrollar soluciones tecnológicas avanzadas que transformen el mercado de combustible, eliminando los medios informales y reduciendo el margen de error, mediante una plataforma web intuitiva y accesible. 
+
+**Visión**: Nuestra visión es posicionarnos como líderes en la digitalización del sector energético, ofreciendo a las empresas una herramienta que facilite una gestión más eficiente, segura y sostenible, contribuyendo al progreso tecnológico y a la mejora de la competitividad del sector. 
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -246,7 +255,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><img src="assets/chapter-1/foto-manuel.png" alt="Manuel Angel Sanchez Arenas" width="80"></td>
+      <td><img src="assets/chapter-1/foto-manuel.jpg" alt="Manuel Angel Sanchez Arenas" width="100"></td>
       <td>Manuel Angel Sanchez Arenas</td>
       <td>u201817507</td>
       <td>Ingeniería de Software</td>
@@ -256,7 +265,8 @@
       <td><img src="assets/chapter-1/foto-saul.png" alt="Saul Ortega Muñoz" width="80"></td>
       <td>Saul Ortega Muñoz</td>
       <td>u20231c019</td>
-      <td>-</td>      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td><img src="assets/chapter-1/foto-alejandro.png" alt="Alberto Alejandro Ponce Perales" width="80"></td>
@@ -315,8 +325,77 @@ Para el desarrollo de FuelTrack, utilizamos el enfoque Lean UX, que nos permite 
 
 #### 1.2.2.2 Lean UX Assumptions
 
+**Business Assumptions (Suposiciones de Negocio)**
+
+* Las empresas están buscando formas de reducir errores y retrasos logísticos para optimizar sus costos operativos.
+* Los proveedores estan dispuestos a invertir para mejorar su nivel de servicio y aumentar su competitividad en el mercado.
+* Las empresas usuarias apreciarán tener un mayor control sobre sus órdenes y ser capaces de seguirlas en una plataforma centralizada.
+* La dificil trazabilidad de los pedidos y las fallas en la comunicación hace que dejar los métodos informales sea una necesidad crítica para todo el sector.
+
+**User Assumptions (Suposiciones de Usuario)**
+
+* *¿Quién es el usuario?*
+  Los usuarios principales serían los encargados logísticos de los proovedores y las empresas solicitantes de combustible.
+* *¿Dónde encaja nuestro producto en su trabajo o vida?*
+  FuelTracks encajaría en el día a día de los usuarios como una plataforma de gestión centralizada, que ayudaría a coordinar, rastrear y organizar pedidos de combustible. Reemplazando así los sistemas no ligados que se utilizan hoy en día.
+* *¿Qué problemas tiene nuestro producto que resolver?*
+  FuelTracks debe resolver la desorganización causada por métodos informales de venta, reducir errores humanos y mejorar la experiencia del cliente.
+* *¿Cuándo y cómo es nuestro producto usado?*
+  Será utilizado diariamente por solicitantes y los proveedores por igual. Por el lado de los usuarios solicitantes, usarán la plataforma para registrar y monitorear pedidos de combustible, y por el lado de proveedores para gestionar la recepción, programación y entrega de dichos pedidos.
+* *¿Qué características son importantes?*
+  El seguimiento de pedidos en tiempo real, actualizaciones de estado mediante notificiaciones, historial de entregas, paneles de control y una interfaz clara y rápida.
+* *¿Cómo debe verse nuestro producto y cómo debe comportarse?*
+  El producto debe presentar una interfaz limpia y profesional. Adaptada al perfil corporativo de los clientes objetivos. Debe ser eficiente, permitiendo la creación, modificación y seguimiento de pedidos en pocos clics. También debe ser altamente confiable, debido al alto valor y magnitud de las órdenes que se realizarán en la plataforma
+
+**Feature Assumptions**
+
+* Creemos que al proporcionar una plataforma centralizada con trazabilidad en tiempo real, ayudaremos a las empresas a reducir errores y mejorar la eficiencia logística.
+* Creemos que al ofrecer una interfaz clara y rápida con funciones de seguimiento, aumentaremos la adopción entre proveedores y solicitantes.
+* Creemos que al automatizar la gestión de pedidos, los usuarios reducirán su dependencia de métodos informales y ganarán en control y visibilidad.
+* Creemos que al integrar notificaciones en tiempo real sobre estados de pedido, mejoraremos la coordinación entre actores y reduciremos los retrasos.
+*  Creemos que al incluir visualización de métricas, facilitaremos la toma de decisiones y la optimización operativa de los proveedores.
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
+
+**Hypothesis Statement 01:**
+* *Creemos* que la centralización de los pedidos en nuestra plataforma reducirá el margen de errores causados por problemas de coordinación entre las empresas solicitantes y los proveedores drásticamente.
+* *Sabremos* que hemos tenido éxito
+* *Cuando* luego de los primeros tres meses de uso se reporte que más de un 70% de los pedidos realizados fueron confirmados sin necesidad de correcciones posteriores.
+
+**Hypothesis Statement 02:**
+* *Creemos* que ofrecer más herramientas para el control y seguimiento de pedidos mejorará la satisfacción de los clientes solicitantes.
+* *Sabremos* que hemos tenido éxito
+* *Cuando* se observe una reducción del 30% en llamadas de seguimiento.
+
+**Hypothesis Statement 03:**
+* *Creemos* que la plataforma permitirá a los proveedores optimizar el proceso de gestión de los pedidos y reducir el tiempo que toma cumplir con cada uno.
+* *Sabremos* que hemos tenido éxito
+* *Cuando* los proveedores logren reducir en un 20% el tiempo promedio entre confirmación y entrega de pedidos.
+
+**Hypothesis Statement 04:**
+* *Creemos* que las notificaciones automáticas sobre el estado de los pedidos reducirán la necesidad de una gran cantidad de operadores comerciales de alta disponibilidad.
+* *Sabremos* que hemos tenido éxito
+* *Cuando* las solicitudes de información por parte de clientes disminuyan en un 40% y el tiempo promedio de atención se reduzca en un 60% tras el primer trimestre de uso.
 
 #### 1.2.2.4 Lean UX Canvas
 
+<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+
 ## 1.3 Segmentos objetivo
+
+**A. Empresas solicitantes de combustible**
+
+Empresas medianas y grandes que requieren de combustible de forma constante para el desarrollo de sus operaciones. Utilizan este recurso para alimentar maquinaria, vehículos o equipos, y buscan procesos más ágiles, ordenados y confiables para su gestión de pedidos. Además, mantienen un contrato de exclusividad con un proveedor de combustible, lo que les permite tener un flujo constante de pedidos y una relación comercial estable.
+
+*Necesidades:*
+* Asegurar el abastecimiento oportuno de combustible.
+* Reducir errores derivados de la informalidad en los procesos.
+* Mantener constante comunicación con proveedores.
+  
+**B. Proveedores de combustible**
+Son empresas dedicadas a la distribución de combustibles, atendiendo principalmente a clientes corporativos o industriales. Buscan herramientas que les permitan, optimizar sus operaciones y diferenciarse en un mercado cada vez más competitivo.
+
+*Motivaciones:*
+* Mejorar la experiencia del cliente mediante canales digitales.
+* Reducir errores en la entrega por información incompleta o mal gestionada.
+* Optimizar la planificación logística y distribución.
