@@ -212,6 +212,20 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 - **Duración:** 4 min 48 seg
 - **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202324041_upc_edu_pe/Ec1x5o0yCKJHto72auvJEgsBFIOcS5AiCYAoO2uHmkneWA?e=2IR0y1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
+**Entrevista 3**  
+- **Nombres:** Lewis
+- **Apellidos:** Rengifo
+- **Edad:** 25
+- **Distrito:** Rimac
+- **Captura de la entrevista:** 
+
+<p align="center">
+  <img src="assets/chapter-2/Entrevistado1.jpg" alt="Captura entrevista 3 Segmento 1" width="400"/>
+</p>  
+
+- **Duración:** 8 min 22 seg
+- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/Eeswz4FpSAdCvZIpFVka_U0BnHgqiuY2Qlv81t5EiqkSnA?e=gO3ZmP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+
 ---
 
 #### **B. Empresas Solicitantes**  
@@ -246,18 +260,18 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 
 
 **Entrevista 3**
-- **Nombres:**
-- **Apellidos:**
-- **Edad:**
-- **Distrito:**
+- **Nombres:**  Enrique
+- **Apellidos:**  Gutierrez
+- **Edad:**  25
+- **Distrito:** Santiago de Surco
 - **Captura de la entrevista:**
 
 <p align="center">
-  <img src="./assets/chapter-2/entrevista3-segmento2.png" alt="Captura entrevista 3 Segmento 2" width="400"/>
+  <img src="./assets/chapter-2/Entrevistado2.jpg" alt="Captura entrevista 3 Segmento 2" width="400"/>
 </p>
 
-- **Duración:**
-- **URL de Entrevista:** [Ver video](colocar_link_aqui)
+- **Duración:** 5 min y 26 seg
+- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/EZkjSGSfpKxEre5gwdhpUYgBjye3ZmSvOHd4aX2o6a6t9A?e=TJqLEt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -266,20 +280,20 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 #### Características Objetivas
 | Característica         | Entrevista 1                                                                                   | Entrevista 2                                                                 | Entrevista 3 |
 |-------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------|
-| Gestión de pedidos      | Correos electrónicos y llamadas; pedidos registrados en base de datos interna; contratos en PDF | Llamadas telefónicas y correos electrónicos; contratos en PDF y Excel.       |              |
-| Herramientas usadas     | Software básico para facturación e inventario; no unificado para pedidos.                      | ERP básico para facturación; no adaptado a pedidos/logística.               |              |
-| Pasos del proceso       | Cliente solicita → registro en base interna → contratos en PDF → coordinación manual → entrega | Cliente solicita → registro en Excel/PDF → coordinación telefónica → entrega |              |
-| Validación de stock     | Inventario controlado en software básico, pero no integrado al pedido.                         | No en tiempo real; se hace manualmente con reportes internos.               |              |
-| Seguimiento de pedidos  | Seguimiento manual fuera del sistema; visibilidad limitada.                                    | No hay trazabilidad en tiempo real; depende de llamadas y correos.          |              |
-| Conciliación de pagos   | Hecha con software de facturación, pero requiere cruce manual.                                 | Hecha con ERP y conciliación manual entre facturas y entregas.              |              |
+| Gestión de pedidos      | Correos electrónicos y llamadas; pedidos registrados en base de datos interna; contratos en PDF | Llamadas telefónicas y correos electrónicos; contratos en PDF y Excel.       |          Pedidos gestionados por CRM, pero con interacción limitada con otras áreas.    |
+| Herramientas usadas     | Software básico para facturación e inventario; no unificado para pedidos.                      | ERP básico para facturación; no adaptado a pedidos/logística.               |         CRM para clientes e inventario; falta integración completa de procesos.     |
+| Pasos del proceso       | Cliente solicita → registro en base interna → contratos en PDF → coordinación manual → entrega | Cliente solicita → registro en Excel/PDF → coordinación telefónica → entrega |       Cliente solicita → registro en CRM → validación manual → entrega.       |
+| Validación de stock     | Inventario controlado en software básico, pero no integrado al pedido.                         | No en tiempo real; se hace manualmente con reportes internos.               |        Validación en CRM, pero datos limitados y no integrados.      |
+| Seguimiento de pedidos  | Seguimiento manual fuera del sistema; visibilidad limitada.                                    | No hay trazabilidad en tiempo real; depende de llamadas y correos.          |        Limitado a reportes internos del CRM; sin alertas automáticas.      |
+| Conciliación de pagos   | Hecha con software de facturación, pero requiere cruce manual.                                 | Hecha con ERP y conciliación manual entre facturas y entregas.              |       Conciliación parcial en CRM, requiere validación externa.       |
 
 #### Características Subjetivas
 | Aspecto                       | Entrevista 1                                                                                   | Entrevista 2                                                                 | Entrevista 3 |
 |--------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------|
-| Frustraciones principales      | Ineficiencia, pérdida de información, dificultad para rastrear pedidos.                        | Pérdida de correos, duplicidad de pedidos, falta de control en tiempo real.  |              |
-| Percepción del proceso actual  | Demasiado manual; consume tiempo que podría dedicarse al cliente.                              | Manual, lento y propenso a errores.                                          |              |
-| Deseo de mejoras               | Visibilidad en tiempo real, unificación de contratos, cotizaciones y entregas.                 | Historial centralizado, pedidos directos en plataforma, seguimiento entregas |              |
-| Disposición a integrar plataforma | Muy alta; lo ven como invaluable para eficiencia y fidelización.                               | Alta; consideran que ahorraría tiempo y reduciría errores.                   |              |
+| Frustraciones principales      | Ineficiencia, pérdida de información, dificultad para rastrear pedidos.                        | Pérdida de correos, duplicidad de pedidos, falta de control en tiempo real.  |        Información dispersa en múltiples fuentes; alto trabajo manual.      |
+| Percepción del proceso actual  | Demasiado manual; consume tiempo que podría dedicarse al cliente.                              | Manual, lento y propenso a errores.                                          |            Poco integrado; requiere doble registro y seguimiento manual.  |
+| Deseo de mejoras               | Visibilidad en tiempo real, unificación de contratos, cotizaciones y entregas.                 | Historial centralizado, pedidos directos en plataforma, seguimiento entregas |        Integración total del CRM con métricas, notificaciones y trazabilidad completa.      |
+| Disposición a integrar plataforma | Muy alta; lo ven como invaluable para eficiencia y fidelización.                               | Alta; consideran que ahorraría tiempo y reduciría errores.                   |       Alta; consideran que aumentaría la productividad y liberaría recursos humanos.       |
 
 
 #### **B. Empresas Solicitantes**
@@ -299,43 +313,43 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
       <td>Cargo/Rol</td>
       <td>Asistente de operaciones</td>
       <td>Jefe de operaciones de flota</td>
-      <td></td>
+      <td>Responsable de logística</td>
     </tr>
     <tr>
       <td>Nivel educativo</td>
       <td>Educacion superior</td>
       <td>Educación superior</td>
-      <td></td>
+      <td>Educación superior</td>
     </tr>
     <tr>
       <td>Herramientas principales</td>
       <td>Excel, llamadas y correos electronicos</td>
       <td>Excel, correos, llamadas, WhatsApp</td>
-      <td></td>
+      <td>Hojas de cálculo y sistema parcial de control de inventario</td>
     </tr>
     <tr>
       <td>Medio actual de solicitud</td>
       <td>Pedidos a proveedores por llamadas/correos</td>
       <td>Pedidos coordinados por correo/llamadas, incidencias por WhatsApp</td>
-      <td></td>
+      <td>Solicitudes vía sistema interno y correos electrónicos</td>
     </tr>
     <tr>
       <td>Validación de pedidos</td>
       <td>Se revisa manualmente en Excel (vales, facturas, consumo por vehículo)</td>
       <td>Control de consumos, rendimientos y asignaciones en Excel</td>
-      <td></td>
+      <td>Validación parcial en sistema interno, pero con registros manuales complementarios</td>
     </tr>
     <tr>
       <td>Autorización de pagos</td>
       <td>Implícito, depende de la revisión manual (no hay un sistema claro)</td>
       <td>No especificado, ligado a reportes consolidados</td>
-      <td></td>
+      <td>Proceso manual con revisión del área administrativa</td>
     </tr>
     <tr>
       <td>Reportes de consumo</td>
       <td>Consolidados en Excel (proceso lento, con riesgo de errores)</td>
       <td>Reportes semanales en Excel, con retrasos y errores manuales</td>
-      <td></td>
+      <td>Reportes mensuales en sistema interno + Excel; visibilidad limitada</td>
     </tr>
   </tbody>
 </table>
@@ -355,31 +369,31 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
       <td>Frustración con métodos manuales</td>
       <td>Alta: errores de transcripción y tiempo perdido al consolidar datos</td>
       <td>Alta: errores manuales, reportes retrasados, difícil seguimiento</td>
-      <td></td>
+      <td>Alta: duplicación de registros y procesos lentos</td>
     </tr>
     <tr>
       <td>Problemas con retrasos/entregas incompletas</td>
       <td>Sí: falta de trazabilidad genera confusión</td>
       <td>Sí: poca velocidad de información en tiempo real</td>
-      <td></td>
+      <td>Sí: errores en consolidación generan entregas tardías</td>
     </tr>
     <tr>
       <td>Importancia de trazabilidad</td>
       <td>Muy alta: permite actuar de inmediato ante problemas o retrasos</td>
       <td>Muy alta: clave para prevenir pérdidas y planificar mejor</td>
-      <td></td>
+      <td>Muy alta: consideran esencial para eficiencia y control</td>
     </tr>
     <tr>
       <td>Deseo de mejoras (automatización/plataforma centralizada)</td>
       <td>Sí: interés en trazabilidad en tiempo real y notificaciones automáticas</td>
       <td>Sí: alertas en tiempo real y sistema centralizado</td>
-      <td></td>
+      <td>Sí: integración completa con proveedores y transparencia en precios</td>
     </tr>
     <tr>
       <td>Percepción de informalidad en proceso actual</td>
       <td>Dependencia de métodos manuales y poca transparencia en precios</td>
       <td>Uso de WhatsApp, falta de integración y sistema central</td>
-      <td></td>
+      <td>Consideran que los procesos actuales son poco confiables y dispersos</td>
     </tr>
   </tbody>
 </table>
@@ -390,12 +404,12 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 
 #### A. Proveedores de Combustible
 <p align="center">
-  <img src="./assets/chapter-2/userpersona_segmento1.png" alt="User Persona 1" width="400"/>
+  <img src="./assets/chapter-2/David Torres-provedor.png" alt="User Persona 1" width="400"/>
 </p>
 
 #### B. Empresas Solicitantes
 <p align="center">
-  <img src="./assets/chapter-2/userpersona_segmento2.png" alt="User Persona 2" width="400"/>
+  <img src="./assets/chapter-2/Carlos Herrera-solicitador.png" alt="User Persona 2" width="400"/>
 </p> 
 
 ### 2.3.2. User Task Matrix.
@@ -404,73 +418,85 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
   <thead>
     <tr>
       <th>Tarea</th>
-      <th>User Persona 1 – Frecuencia</th>
-      <th>User Persona 1 – Importancia</th>
-      <th>User Persona 2 – Frecuencia</th>
-      <th>User Persona 2 – Importancia</th>
+      <th>Carlos Herrera – Frecuencia</th>
+      <th>Carlos Herrera – Importancia</th>
+      <th>David Torres – Frecuencia</th>
+      <th>David Torres – Importancia</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Revisar nivel de stock de combustible</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Alta</td>
+      <td>Muy alta</td>
+      <td>Media</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>Realizar pedido de combustible</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Alta</td>
+      <td>Muy alta</td>
+      <td>Media</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>Validar confirmación de pedido</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Alta</td>
+      <td>Muy alta</td>
+      <td>Alta</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>Hacer seguimiento a la entrega</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Alta</td>
+      <td>Muy alta</td>
+      <td>Media</td>
+      <td>Media</td>
     </tr>
     <tr>
       <td>Supervisar descarga y recepción</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Baja</td>
+      <td>Media</td>
     </tr>
     <tr>
       <td>Evaluar proceso post-servicio</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Media</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>Gestionar atención al cliente</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Alta</td>
+      <td>Muy alta</td>
     </tr>
     <tr>
       <td>Revisar encuestas o feedback</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Baja</td>
+      <td>Media</td>
+      <td>Alta</td>
+      <td>Muy alta</td>
     </tr>
   </tbody>
 </table>
 
 ### 2.3.3. User Journey Mapping.
+
+Para el solicitante, el proceso inicia con la emisión de un pedido a través de correo electrónico o llamada telefónica. Posteriormente, se realiza la verificación manual del depósito, se espera la aprobación del proveedor, se coordina el despacho y, finalmente, la entrega queda registrada de forma manual.
+
+En el caso del proveedor, el recorrido comienza con la recepción del pedido, seguido por la revisión del estado de cuenta del cliente. Después se aprueba el pedido de manera manual, se asigna la planta y el vehículo correspondiente, y en diversas ocasiones es necesario reprogramar la entrega debido a inconvenientes de disponibilidad.
+
+a. User Persona 1: Empresas solicitantes de combustible
+
+![User journey map 2.png](assets/chapter-2/User_journey_map_1.png)
+
+b. User Persona 2: Proveedores de combustible
+
+![User journey map 2.png](assets/chapter-2/User_journey_map_2.png)
 
 ### 2.3.4. Empathy Mapping.
 **User Persona 1: Carlos Herrera**
