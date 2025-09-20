@@ -197,7 +197,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
   <img src="assets/chapter-2/Entrevista-Proveedor-1.png" alt="Captura entrevista 1 Segmento 1" width="400"/>
 </p>  
 
-- **Duración:**
+- **Duración:** 4 min 30 seg
 - **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202324041_upc_edu_pe/ESQiYkHNmUFCrcIMB9GPSYYBBzVdFlgerQtqhPSVk3u5dg?e=7wfR8G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Entrevista 2**  
@@ -221,12 +221,19 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 - **Distrito:** Magdalena
 - **Captura de la entrevista:** ![Captura Entrevista 2.png](assets/chapter-2/Captura%20Entrevista%202.png)
 
+**Entrevista 4**  
+- **Nombres:** Renzo
+- **Apellidos:** Calvo
+- **Edad:** 25
+- **Distrito:** Cercado de Lima
+- **Captura de la entrevista:** 
+
 <p align="center">
-  <img src="./assets/chapter-2/entrevista3-segmento1.png" alt="Captura entrevista 3 Segmento 1" width="400"/>
+  <img src="assets/chapter-2/Entrevista-Proveedor-2.png" alt="Captura entrevista 4 Segmento 1" width="400"/>
 </p>  
 
-- **Duración:** 3 min 22 seg
-- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c019_upc_edu_pe/EZ-HXJ3KuiNFoXwUPpJYd70BIurcLECXami-EhvDLMZs0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FScLB9)  
+- **Duración:** 4 min 48 seg
+- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202324041_upc_edu_pe/Ec1x5o0yCKJHto72auvJEgsBFIOcS5AiCYAoO2uHmkneWA?e=2IR0y1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 ---
 
