@@ -264,92 +264,23 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 #### **A. Proveedores de Combustible**
 
 #### Características Objetivas
-<table border>
-  <thead>
-    <tr>
-      <th>Característica</th>
-      <th>Entrevista 1</th>
-      <th>Entrevista 2</th>
-      <th>Entrevista 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gestión de pedidos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Herramientas usadas</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Pasos del proceso</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Validación de stock</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Seguimiento de pedidos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Conciliación de pagos</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| Característica         | Entrevista 1                                                                                   | Entrevista 2                                                                 | Entrevista 3 |
+|-------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------|
+| Gestión de pedidos      | Correos electrónicos y llamadas; pedidos registrados en base de datos interna; contratos en PDF | Llamadas telefónicas y correos electrónicos; contratos en PDF y Excel.       |              |
+| Herramientas usadas     | Software básico para facturación e inventario; no unificado para pedidos.                      | ERP básico para facturación; no adaptado a pedidos/logística.               |              |
+| Pasos del proceso       | Cliente solicita → registro en base interna → contratos en PDF → coordinación manual → entrega | Cliente solicita → registro en Excel/PDF → coordinación telefónica → entrega |              |
+| Validación de stock     | Inventario controlado en software básico, pero no integrado al pedido.                         | No en tiempo real; se hace manualmente con reportes internos.               |              |
+| Seguimiento de pedidos  | Seguimiento manual fuera del sistema; visibilidad limitada.                                    | No hay trazabilidad en tiempo real; depende de llamadas y correos.          |              |
+| Conciliación de pagos   | Hecha con software de facturación, pero requiere cruce manual.                                 | Hecha con ERP y conciliación manual entre facturas y entregas.              |              |
 
 #### Características Subjetivas
-<table border>
-  <thead>
-    <tr>
-      <th>Aspecto</th>
-      <th>Entrevista 1</th>
-      <th>Entrevista 2</th>
-      <th>Entrevista 3</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Frustraciones principales</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Percepción del proceso actual</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Deseo de mejoras</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Disposición a integrar plataforma</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+| Aspecto                       | Entrevista 1                                                                                   | Entrevista 2                                                                 | Entrevista 3 |
+|--------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------|
+| Frustraciones principales      | Ineficiencia, pérdida de información, dificultad para rastrear pedidos.                        | Pérdida de correos, duplicidad de pedidos, falta de control en tiempo real.  |              |
+| Percepción del proceso actual  | Demasiado manual; consume tiempo que podría dedicarse al cliente.                              | Manual, lento y propenso a errores.                                          |              |
+| Deseo de mejoras               | Visibilidad en tiempo real, unificación de contratos, cotizaciones y entregas.                 | Historial centralizado, pedidos directos en plataforma, seguimiento entregas |              |
+| Disposición a integrar plataforma | Muy alta; lo ven como invaluable para eficiencia y fidelización.                               | Alta; consideran que ahorraría tiempo y reduciría errores.                   |              |
+
 
 #### **B. Empresas Solicitantes**
 
