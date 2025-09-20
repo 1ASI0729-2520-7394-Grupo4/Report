@@ -433,9 +433,37 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de F
 
 # Conclusiones
 
+* El proyecto FuelTrack propuso una solución práctica para mejorar la gestión de pedidos de combustible, partiendo de una comprensión real de las necesidades del mercado y los usuarios. La propuesta de valor se validó con herramientas ágiles como Lean UX, entrevistas y análisis de la competencia, lo que permitió definir un producto enfocado en resolver problemas de eficiencia y comunicación.
+
+* Se diseñó una experiencia de usuario clara y accesible, donde la Landing Page cumple un rol clave al transmitir la oferta de manera sencilla, fomentar la conversión con llamados a la acción estratégicos y generar confianza mediante testimonios y prueba social.
+
+* En cuanto a la plataforma, se aplicaron buenas prácticas de arquitectura de información, navegación intuitiva y guías de estilo, logrando una experiencia digital coherente y profesional. A nivel técnico, se estableció una base sólida de software y base de datos, pensada para ser escalable y fácil de mantener.
+
+* El desarrollo se gestionó con un enfoque iterativo, lo que permitió avanzar por etapas, validar resultados y hacer mejoras continuas, asegurando que el producto final respondiera tanto a las expectativas de los usuarios como a los objetivos de negocio de FuelTrack.
+
 # Anexos
 
 - Landing Page Desplegada: https://fueltrack-open-landing.vercel.app/
 - Landing Pages y Web App Wireframes y Mockup: https://www.figma.com/design/rHWFnnAJfePrXDqeJOd6xR/Open-Source---Landing-y-Web-App?node-id=0-1&t=cTJU9vKhzmeoOGoZ-1
 
 # Bibliografía
+
+ Interaction Design Foundation. (s.f.). A simple introduction to Lean UX. Recuperado de https://www.interactiondesign.org/literature/article/a-simple-introduction-to-lean-ux
+ 
+ Baymard Institute. (s.f.). The best practices and key principles of UX design. Recuperado de
+ https://baymard.com/learn/ux-design-principles
+ 
+ Laubheimer, P. (2022, abril 10). Information architecture: Study guide. Nielsen Norman Group. Recuperado de
+ https://www.nngroup.com/articles/ia-study-guide/
+ 
+ UXPin. (2024, agosto). Design consistency guide: UI and UX best practices. Recuperado de
+ https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
+ 
+ CareerFoundry. (2023, enero 5). A beginner’s guide to information architecture in UX. Recuperado de
+ https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/
+ 
+ Contentsquare. (2024, octubre). What is Lean UX? The 3 key phases of Lean UX design. Recuperado de
+ https://contentsquare.com/guides/ux/lean/
+ 
+ UX Design Institute. (2022, noviembre 15). What is Lean UX and why does it matter? A complete guide.
+ Recuperado de https://www.uxdesigninstitute.com/blog/what-is-lean-ux/
