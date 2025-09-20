@@ -274,7 +274,7 @@ Flujo Gitflow:
         <td>US-42</td>
         <td>Ver sección Lo que Dicen Nuestros Clientes</td>
         <td>W-05</td>
-        <td>Sección Our Clients</td>
+        <td>Sección Testimonios</td>
         <td>Como visitante de ambos segmentos, quiero conocer los testimonios de los usuarios de FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando.</td>
         <td>6 horas</td>
         <td>Alejandro</td>
@@ -294,7 +294,7 @@ Flujo Gitflow:
         <td>US-43</td>
         <td>Ver sección Planes y Precios</td>
         <td>W-07</td>
-        <td>Are You A Fuel Requester?</td>
+        <td>Sección Planes y Precios</td>
         <td>Como visitante (ambos segmentos), quiero saber que planes se adecuan a mis necesidades para poder iniciar un proceso de registro o solicitud.</td>
         <td>6 horas</td>
         <td>Manuel</td>
