@@ -193,7 +193,7 @@
         <b>Manuel Sanchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
         <b>Saul Ortega</b><br>
-        TB1: -<br>
+        TB1: Para esta entrega, me encargué de realizar entrevistas a usuarios dentro del Lean UX Process, así como también del análisis de la información obtenida. Posteriormente, expuse los hallazgos al equipo y a los stakeholders, adaptando mi comunicación oral al tipo de audiencia para asegurar una comprensión clara y efectiva de los resultados.<br>
         <b>Alberto Ponce</b><br>
         TB1: -<br>
       </td>
@@ -209,7 +209,7 @@
         <b>Manuel Sanchez</b><br>
         TB1: Para esta entrega le di prioridad a la explicación de nuestra propuesta, problemática, hipótesis, etc.<br>
         <b>Saul Ortega</b><br>
-        TB1: -<br>
+        TB1: Para esta entrega, elaboré reportes y resúmenes de los hallazgos de entrevistas, adaptando el lenguaje y nivel de detalle según la audiencia para asegurar una comunicación escrita clara y efectiva..<br>
         <b>Alberto Ponce</b><br>
         TB1: -<br>
       </td>
@@ -262,11 +262,11 @@
       <td>Desarrollo Fullstack: ASP.NetCORE MVC con Razor. Java básico. React.js</td>
     </tr>
     <tr>
-      <td><img src="assets/chapter-1/foto-saul.png" alt="Saul Ortega Muñoz" width="80"></td>
+      <td><img src="![perfil-saul .jpg](assets/chapter-1/perfil-saul%20.jpg)" alt="Saul Ortega Muñoz" width="80"></td>
       <td>Saul Ortega Muñoz</td>
       <td>u20231c019</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Ingenieria de Software</td>
+      <td>Soy una persona colaborativa y comunicativa, con facilidad para adaptarme a distintos roles y situaciones dentro de un equipo. Me caracterizo por la empatía, la responsabilidad y la organización, cualidades que me permiten aportar soluciones de manera proactiva. </td>
     </tr>
     <tr>
       <td><img src="assets/chapter-1/foto-alejandro.png" alt="Alberto Alejandro Ponce Perales" width="80"></td>
