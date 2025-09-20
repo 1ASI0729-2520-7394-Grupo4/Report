@@ -201,32 +201,32 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 - **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202324041_upc_edu_pe/ESQiYkHNmUFCrcIMB9GPSYYBBzVdFlgerQtqhPSVk3u5dg?e=7wfR8G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Entrevista 2**  
-- **Nombres:**
-- **Apellidos:**
-- **Edad:**
-- **Distrito:**
-- **Captura de la entrevista:**
+- **Nombres:** Carlos Alonso
+- **Apellidos:** Sampen Navarrete
+- **Edad:** 22
+- **Distrito:** Magdalena
+- **Captura de la entrevista:** ![captura entrevista 1.png](assets/chapter-2/captura%20entrevista%201.png)
 
 <p align="center">
   <img src="./assets/chapter-2/entrevista2-segmento1.png" alt="Captura entrevista 2 Segmento 1" width="400"/>
 </p>  
 
-- **Duración:**
-- **URL de Entrevista:** [Ver video](colocar_link_aqui)  
+- **Duración:** 4 min 51 seg
+- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c019_upc_edu_pe/EZ_nhGYmv_tMu4-N8jyqtqkBm_HUypEjcf-g4nklT0b2Rg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rVonNr)  
 
 **Entrevista 3**  
-- **Nombres:**
-- **Apellidos:**
-- **Edad:**
-- **Distrito:**
-- **Captura de la entrevista:**
+- **Nombres:** Franccesco
+- **Apellidos:** Cruzate
+- **Edad:** 22
+- **Distrito:** Magdalena
+- **Captura de la entrevista:** ![Captura Entrevista 2.png](assets/chapter-2/Captura%20Entrevista%202.png)
 
 <p align="center">
   <img src="./assets/chapter-2/entrevista3-segmento1.png" alt="Captura entrevista 3 Segmento 1" width="400"/>
 </p>  
 
-- **Duración:**
-- **URL de Entrevista:** [Ver video](colocar_link_aqui)  
+- **Duración:** 3 min 22 seg
+- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c019_upc_edu_pe/EZ-HXJ3KuiNFoXwUPpJYd70BIurcLECXami-EhvDLMZs0Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FScLB9)  
 
 ---
 
