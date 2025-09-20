@@ -297,44 +297,44 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
   <tbody>
     <tr>
       <td>Cargo/Rol</td>
-      <td></td>
-      <td></td>
+      <td>Asistente de operaciones</td>
+      <td>Jefe de operaciones de flota</td>
       <td></td>
     </tr>
     <tr>
       <td>Nivel educativo</td>
-      <td></td>
-      <td></td>
+      <td>Educacion superior</td>
+      <td>Educación superior</td>
       <td></td>
     </tr>
     <tr>
       <td>Herramientas principales</td>
-      <td></td>
-      <td></td>
+      <td>Excel, llamadas y correos electronicos</td>
+      <td>Excel, correos, llamadas, WhatsApp</td>
       <td></td>
     </tr>
     <tr>
       <td>Medio actual de solicitud</td>
-      <td></td>
-      <td></td>
+      <td>Pedidos a proveedores por llamadas/correos</td>
+      <td>Pedidos coordinados por correo/llamadas, incidencias por WhatsApp</td>
       <td></td>
     </tr>
     <tr>
       <td>Validación de pedidos</td>
-      <td></td>
-      <td></td>
+      <td>Se revisa manualmente en Excel (vales, facturas, consumo por vehículo)</td>
+      <td>Control de consumos, rendimientos y asignaciones en Excel</td>
       <td></td>
     </tr>
     <tr>
       <td>Autorización de pagos</td>
-      <td></td>
-      <td></td>
+      <td>Implícito, depende de la revisión manual (no hay un sistema claro)</td>
+      <td>No especificado, ligado a reportes consolidados</td>
       <td></td>
     </tr>
     <tr>
       <td>Reportes de consumo</td>
-      <td></td>
-      <td></td>
+      <td>Consolidados en Excel (proceso lento, con riesgo de errores)</td>
+      <td>Reportes semanales en Excel, con retrasos y errores manuales</td>
       <td></td>
     </tr>
   </tbody>
@@ -353,32 +353,32 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
   <tbody>
     <tr>
       <td>Frustración con métodos manuales</td>
-      <td></td>
-      <td></td>
+      <td>Alta: errores de transcripción y tiempo perdido al consolidar datos</td>
+      <td>Alta: errores manuales, reportes retrasados, difícil seguimiento</td>
       <td></td>
     </tr>
     <tr>
       <td>Problemas con retrasos/entregas incompletas</td>
-      <td></td>
-      <td></td>
+      <td>Sí: falta de trazabilidad genera confusión</td>
+      <td>Sí: poca velocidad de información en tiempo real</td>
       <td></td>
     </tr>
     <tr>
       <td>Importancia de trazabilidad</td>
-      <td></td>
-      <td></td>
+      <td>Muy alta: permite actuar de inmediato ante problemas o retrasos</td>
+      <td>Muy alta: clave para prevenir pérdidas y planificar mejor</td>
       <td></td>
     </tr>
     <tr>
       <td>Deseo de mejoras (automatización/plataforma centralizada)</td>
-      <td></td>
-      <td></td>
+      <td>Sí: interés en trazabilidad en tiempo real y notificaciones automáticas</td>
+      <td>Sí: alertas en tiempo real y sistema centralizado</td>
       <td></td>
     </tr>
     <tr>
       <td>Percepción de informalidad en proceso actual</td>
-      <td></td>
-      <td></td>
+      <td>Dependencia de métodos manuales y poca transparencia en precios</td>
+      <td>Uso de WhatsApp, falta de integración y sistema central</td>
       <td></td>
     </tr>
   </tbody>
