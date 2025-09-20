@@ -195,10 +195,10 @@
         <b>Saul Ortega</b><br>
         TB1: Para esta entrega, me encargué de realizar entrevistas a usuarios dentro del Lean UX Process, así como también del análisis de la información obtenida. Posteriormente, expuse los hallazgos al equipo y a los stakeholders, adaptando mi comunicación oral al tipo de audiencia para asegurar una comprensión clara y efectiva de los resultados.<br>
         <b>Alberto Ponce</b><br>
-        TB1: -<br>
+        TB1: En esta entrega participé en la recoleccion de las entrevistas, la construcción de las User Personas, definiendo perfiles claros a partir de las entrevistas. También colaboré en la User Task Matrix, priorizando las tareas según frecuencia e importancia. Asimismo, apoyé en el diseño de los User Journey Mapping, destacando puntos de dolor y motivaciones de los usuarios.<br>
       </td>
       <td>
-        CONCLUSION CRITERIO 1
+        Consideramos que la comunicación oral fue aplicada de manera clara y estratégica, logrando exponer hallazgos, transmitir insights y sostener discusiones con efectividad frente a diferentes audiencias. Gracias a ello, se alcanzó una comprensión común del problema y se sentaron bases sólidas para proponer soluciones innovadoras en el marco del Lean UX Process.
       </td>
     </tr>
     <tr>
@@ -211,10 +211,10 @@
         <b>Saul Ortega</b><br>
         TB1: Para esta entrega, elaboré reportes y resúmenes de los hallazgos de entrevistas, adaptando el lenguaje y nivel de detalle según la audiencia para asegurar una comunicación escrita clara y efectiva..<br>
         <b>Alberto Ponce</b><br>
-        TB1: -<br>
+        TB1: Para esta entrega me encargué de redactar y organizar la información de las User Personas. También participé en la documentación del User Task Matrix y del User Journey Mapping, resumiendo hallazgos de manera estructurada. Adapté mi redacción para mantener un lenguaje profesional, preciso y accesible.<br>
       </td>
       <td>
-        CONCLUSION CRITERIO 2
+        La comunicación escrita se utilizó de forma clara y estratégica, adaptando el nivel de detalle y el lenguaje según la audiencia. Esto permitió documentar hallazgos, explicar la problemática y presentar propuestas de manera efectiva, logrando que toda la información fuera comprendida y validada en el marco del Lean UX Process.
       </td>
     </tr>
   </tbody>
@@ -262,18 +262,18 @@
       <td>Desarrollo Fullstack: ASP.NetCORE MVC con Razor. Java básico. React.js</td>
     </tr>
     <tr>
-      <td><img src="![perfil-saul .jpg](assets/chapter-1/perfil-saul%20.jpg)" alt="Saul Ortega Muñoz" width="80"></td>
+      <td><img src="assets/chapter-1/perfil-saul%20.jpg" alt="Saul Ortega Muñoz" width="80"></td>
       <td>Saul Ortega Muñoz</td>
       <td>u20231c019</td>
       <td>Ingenieria de Software</td>
       <td>Soy una persona colaborativa y comunicativa, con facilidad para adaptarme a distintos roles y situaciones dentro de un equipo. Me caracterizo por la empatía, la responsabilidad y la organización, cualidades que me permiten aportar soluciones de manera proactiva. </td>
     </tr>
     <tr>
-      <td><img src="assets/chapter-1/foto-alejandro.png" alt="Alberto Alejandro Ponce Perales" width="80"></td>
+      <td><img src="assets/chapter-1/FotoAlberto.jpg" alt="Alberto Alejandro Ponce Perales" width="80"></td>
       <td>Alberto Alejandro Ponce Perales</td>
       <td>u202320684</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Ingeniería de Software</td>
+      <td>Estudiante de la carrera de Ingeniería de Software en la UPC. Actualmente cuento con conocimientos en lenguajes de programación como C + + y manejo de Java. Considero que mis mayores virtudes son: la responsabilidad, capacidad de adaptarme, trabajar en equipo y la resiliencia.</td>
     </tr>
   </tbody>
 </table>
