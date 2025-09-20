@@ -473,8 +473,14 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
+**User Persona 1: Carlos Herrera**
+<img src="assets/chapter-2/EmpathyMapping1.jpg">
+
+**User Persona 2: David Torres**
+<img src="assets/chapter-2/EmpathyMapping2.jpg">
 
 ### 2.4. Big Picture Event Storming
+
 
 ## 2.5. Ubiquitous Language.
 
