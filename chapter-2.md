@@ -187,18 +187,18 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 #### **A. Proveedores de Combustible**  
 
 **Entrevista 1**  
-- **Nombres:**
-- **Apellidos:**
-- **Edad:**
-- **Distrito:**
-- **Captura de la entrevista:**
+- **Nombres:** Wilber Franz
+- **Apellidos:** Toledo Mamani
+- **Edad:** 26 
+- **Distrito:** San Miguel
+- **Captura de la entrevista:** 
 
 <p align="center">
-  <img src="./assets/chapter-2/entrevista1-segmento1.png" alt="Captura entrevista 1 Segmento 1" width="400"/>
+  <img src="assets/chapter-2/Entrevista-Proveedor-1.png" alt="Captura entrevista 1 Segmento 1" width="400"/>
 </p>  
 
 - **Duración:**
-- **URL de Entrevista:** [Ver video](colocar_link_aqui)  
+- **URL de Entrevista:** [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202324041_upc_edu_pe/ESQiYkHNmUFCrcIMB9GPSYYBBzVdFlgerQtqhPSVk3u5dg?e=7wfR8G&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 **Entrevista 2**  
 - **Nombres:**
