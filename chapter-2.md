@@ -481,6 +481,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 
 ### 2.4. Big Picture Event Storming
 
+![Big Event Storming .png](assets/chapter-2/Big%20Event%20Storming%20.png)
 
 ## 2.5. Ubiquitous Language.
 
