@@ -189,7 +189,7 @@
       <td width="25%"><b>Comunica oralmente con efectividad a rangos de audiencia</b></td>
       <td>
         <b>Giorgio Awad</b><br>
-        TB1: -<br>
+        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task     Matrix.<br>
         <b>Manuel Sanchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
         <b>Saul Ortega</b><br>
@@ -205,7 +205,7 @@
       <td width="25%"><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
       <td>
         <b>Giorgio Awad</b><br>
-        TB1: -<br>
+        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task     Matrix. <br>
         <b>Manuel Sanchez</b><br>
         TB1: Para esta entrega le di prioridad a la explicación de nuestra propuesta, problemática, hipótesis, etc.<br>
         <b>Saul Ortega</b><br>
@@ -248,11 +248,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/chapter-1/foto-giorgio.png" alt="Giorgio Marzouk Awad Vargas" width="80"></td>
+      <td><img src="assets/chapter-1/foto-giorgio.jpg" alt="Giorgio Marzouk Awad Vargas" width="80"></td>
       <td>Giorgio Marzouk Awad Vargas</td>
       <td>u202324041</td>
-      <td>-</td>
-      <td>-</td>
+      <td>Ingeniería de Software</td>
+      <td>Considero ser alguien que aporta ideas nuevas al equipo, que a largo plazo contribuyen con la resolución de cualquier problema que se presente. Asimismo, soy capaz de adaptarme al momento de trabajar en equipo, convirtiéndome en un compañero polifuncional.</td>
     </tr>
     <tr>
       <td><img src="assets/chapter-1/foto-manuel.jpg" alt="Manuel Angel Sanchez Arenas" width="100"></td>
