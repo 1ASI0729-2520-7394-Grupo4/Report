@@ -262,22 +262,22 @@ Flujo Gitflow:
     </tr>
     <tr align="center">
         <td>US-41</td>
-        <td>Ver sección Main Suppliers</td>
+        <td>Ver sección Benefits</td>
         <td>W-04</td>
-        <td>Sección Main Suppliers</td>
-        <td>Como visitante de ambos segmentos, quiero conocer los principales proveedores de combustible que trabajan con FuelTrack para confiar en la plataforma</td>
+        <td>Sección Beneficios</td>
+        <td>Como visitante de ambos segmentos, quiero conocer las principales ventajas con las que puedo contar para evaluar la implementación de la plataforma</td>
         <td>4 horas</td>
-        <td>Luciana</td>
+        <td>Saul</td>
         <td>Done</td>
     </tr>
     <tr align="center">
         <td>US-42</td>
-        <td>Ver sección Our Clients</td>
+        <td>Ver sección Lo que Dicen Nuestros Clientes</td>
         <td>W-05</td>
         <td>Sección Our Clients</td>
-        <td>Como visitante de ambos segmentos, quiero conocer a las empresas que utilizan FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando</td>
+        <td>Como visitante de ambos segmentos, quiero conocer los testimonios de los usuarios de FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando.</td>
         <td>6 horas</td>
-        <td>Frezzia</td>
+        <td>Alejandro</td>
         <td>Done</td>
     </tr>
     <tr align="center">
@@ -292,10 +292,10 @@ Flujo Gitflow:
     </tr>
     <tr align="center">
         <td>US-43</td>
-        <td>Ver sección Are You A Fuel Requester?</td>
+        <td>Ver sección Planes y Precios</td>
         <td>W-07</td>
         <td>Are You A Fuel Requester?</td>
-        <td>Como visitante (solicitante), quiero saber si cumplo con los requisitos de solicitante de combustible para poder iniciar un proceso de registro o solicitud</td>
+        <td>Como visitante (ambos segmentos), quiero saber que planes se adecuan a mis necesidades para poder iniciar un proceso de registro o solicitud.</td>
         <td>6 horas</td>
         <td>Manuel</td>
         <td>Done</td>
