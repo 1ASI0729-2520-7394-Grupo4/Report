@@ -306,17 +306,17 @@ Decisiones principales de diseño tomadas:
 
 ## 4.5. Web Applications Prototyping
 
-#### Desktop Web Application ####
+#### Desktop Web Application 
 
-![desktop-web](img/desktopweb_screenshoot.png)
+![desktop-web](assets/chapter-4/DesktopWeb.png)
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/ERDD-lEBS_BPkmdvOQiyDRcBhGuMLOcIjqw2FnJswBEXXA?e=m1AhNU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-#### Mobile Web Application ####
+#### Mobile Web Application 
 
-![mobile-web](img/mobileweb_screenshoot.png)
+![mobile-web](assets/chapter-4/MobileWeb.png)
 
-Link: 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202320684_upc_edu_pe/ETOVcHoQ1nlOp_aBXtO_Kc4Bnd65ZoUiqGMSvJoX_jo98A?e=v3ZDxf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 4.6. Domain-Driven Software Architecture
 
