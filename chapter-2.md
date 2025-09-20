@@ -369,7 +369,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 #### **B. Empresas Solicitantes**
 
 #### Características Objetivas
-<table border">
+<table border>
   <thead>
     <tr>
       <th>Característica</th>
@@ -472,7 +472,87 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 
 ### 2.3.1. User Personas.
 
+#### A. Proveedores de Combustible
+<p align="center">
+  <img src="./assets/chapter-2/userpersona_segmento1.png" alt="User Persona 1" width="400"/>
+</p>
+
+#### B. Empresas Solicitantes
+<p align="center">
+  <img src="./assets/chapter-2/userpersona_segmento2.png" alt="User Persona 2" width="400"/>
+</p> 
+
 ### 2.3.2. User Task Matrix.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Tarea</th>
+      <th>User Persona 1 – Frecuencia</th>
+      <th>User Persona 1 – Importancia</th>
+      <th>User Persona 2 – Frecuencia</th>
+      <th>User Persona 2 – Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Revisar nivel de stock de combustible</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Realizar pedido de combustible</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Validar confirmación de pedido</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Hacer seguimiento a la entrega</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Supervisar descarga y recepción</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Evaluar proceso post-servicio</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Gestionar atención al cliente</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Revisar encuestas o feedback</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2.3.3. User Journey Mapping.
 
