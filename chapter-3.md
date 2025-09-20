@@ -638,24 +638,24 @@
     </tr>
     <tr>
       <td>US41</td>
-      <td>Ver sección Main Suppliers</td>
-      <td>Como visitante de ambos segmentos, quiero conocer los principales proveedores de combustible que trabajan con FuelTrack para confiar en la plataforma.</td>
+      <td>Ver sección Benefits</td>
+      <td>Como visitante de ambos segmentos, quiero conocer las principales ventajas con las que puedo contar para evaluar la implementación de la plataforma.</td>
       <td>
-        <strong>Escenario 1: Visualizar proveedores principales</strong><br/>
-        Dado que el visitante de ambos segmentos accede a la sección "Main Suppliers",<br/>
-        Cuando visualiza los logos de los proveedores,<br/>
-        Entonces puede identificar a los proveedores principales que están asociados con FuelTrack.<br/><br/>
-        <strong>Escenario 2: Ver proveedores actualizados</strong><br/>
-        Dado que el visitante de ambos segmentos accede a la sección,<br/>
-        Cuando observa la lista de proveedores actualizada,<br/>
-        Entonces ve los proveedores más recientes con sus respectivas actualizaciones.<br/><br/>
+        <strong>Escenario 1: Visualizar beneficios</strong><br/>
+        Dado que el visitante de ambos segmentos accede a la sección "¿Por qué elegir Fueltrack?",<br/>
+        Cuando visualiza los múltiples beneficios,<br/>
+        Entonces puede identificar nuestra ventajas frente a nuestros competidores<br/><br/>
+        <strong>Escenario 2: Visualizar beneficios </strong><br/>
+        Dado que el visitante de ambos segmentos accede a la sección "¿Por qué elegir Fueltrack?",<br/>
+        Cuando observa la lista de beneficios,<br/>
+        Entonces ve como le podría beneficiar usar Fueltrack<br/><br/>
       </td>
       <td>EP01</td>
     </tr>
     <tr>
       <td>US42</td>
-      <td>Ver sección Our Clients</td>
-      <td>Como visitante de ambos segmentos, quiero conocer a las empresas que utilizan FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando.</td>
+      <td>Ver sección Lo que Dicen Nuestros Clientes</td>
+      <td>Como visitante de ambos segmentos, quiero conocer los testimonios de los usuarios de FuelTrack para tener confianza en la plataforma y saber que otras empresas ya la están usando.</td>
       <td>
         <strong>Escenario 1: Ver testimonios de clientes</strong><br/>
         Dado que el visitante de ambos segmentos está interesado en los comentarios de los clientes,<br/>
@@ -670,17 +670,17 @@
     </tr>
     <tr>
       <td>US43</td>
-      <td>Ver sección Are You A Fuel Requester?</td>
-      <td>Como visitante (solicitante), quiero saber si cumplo con los requisitos de solicitante de combustible para poder iniciar un proceso de registro o solicitud.</td>
+      <td>Ver sección Planes y Precios</td>
+      <td>Como visitante (ambos segmentos), quiero saber que planes se adecuan a mis necesidades para poder iniciar un proceso de registro o solicitud.</td>
       <td>
         <strong>Escenario 1: Ver información sobre ser solicitante de combustible</strong><br/>
-        Dado que el visitante (solicitante) entra a la sección "Are you a fuel requester?",<br/>
-        Cuando visualiza el mensaje y call to action,<br/>
-        Entonces entiende que debe registrarse como solicitante para comenzar el proceso.<br/><br/>
-        <strong>Escenario 2: Realizar acción para ser solicitante</strong><br/>
-        Dado que el visitante (solicitante) está interesado en convertirse en solicitante,<br/>
-        Cuando hace clic en el call to action para solicitantes,<br/>
-        Entonces es redirigido a la página de registro de solicitantes.<br/><br/>
+        Dado que el visitante entra a la sección Precios y Planes,<br/>
+        Cuando visualiza los diferentes precios y las features incluidas,<br/>
+        Entonces entiende que existe flexibilidad para adaptar Fueltrack a su empresa.<br/><br/>
+        <strong>Escenario 2: Seleccionar un plan</strong><br/>
+        Dado que el visitante está interesado en obtener un plan específico,<br/>
+        Cuando hace clic en el call to action,<br/>
+        Entonces es redirigido a la página de registro.<br/><br/>
       </td>
       <td>EP01</td>
     </tr>
