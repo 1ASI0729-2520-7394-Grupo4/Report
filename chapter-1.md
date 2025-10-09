@@ -69,9 +69,31 @@
         • Configuración inicial del repositorio y del Landing Page <br>
         • Aplicación de GitFlow y convenciones de commits
       </td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>TP1</td>
+      <td>09/10/2025</td>
+      <td>
+        - Giorgio Marzouk Awad Vargas <br>
+        - Manuel Ángel Sánchez Arenas <br>
+        - Alberto Alejandro Ponce Perales
+      </td>
+      <td>
+        Se incluyeron los siguientes capítulos: <br>
+        5.2.2. Sprint 2 <br>
+        5.2.2.1. Sprint Planning 2.<br>
+        5.2.2.2. Aspect Leaders and Collaborators.<br>
+        5.2.2.3. Sprint Backlog 2. <br>
+        5.2.2.4. Development Evidence for Sprint Review.<br>
+        5.2.2.5. Execution Evidence for Sprint Review.<br>
+        5.2.2.6. Services Documentation Evidence for Sprint Review.<br>
+        5.2.2.7. Software Deployment Evidence for Sprint Review.<br>
+        5.2.2.8. Team Collaboration Insights during Sprint.
+      </td>
+    </tr>
   </tbody>
 </table>
+
 
 ## Project Report Collaboration Insights
 
@@ -189,13 +211,16 @@
       <td width="25%"><b>Comunica oralmente con efectividad a rangos de audiencia</b></td>
       <td>
         <b>Giorgio Awad</b><br>
-        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task     Matrix.<br>
+        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix.<br>
+        TP1: Explique con claridad la funcionalidad de los componentes Notifications y Providers, detallando su aporte técnico y su integración con el sistema. Utilice un lenguaje técnico comprensible, apoyándose en ejemplos visuales para evidenciar el funcionamiento.<br>
         <b>Manuel Sanchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
+        TP1: Presente de manera estructurada el desarrollo del Order, Terminals y el Web App Layout, resaltando cómo estos módulos mejoran la navegación y experiencia del usuario. Comunique con fluidez los roles del equipo y la planificación del sprint.<br>
         <b>Saul Ortega</b><br>
         TB1: Para esta entrega, me encargué de realizar entrevistas a usuarios dentro del Lean UX Process, así como también del análisis de la información obtenida. Posteriormente, expuse los hallazgos al equipo y a los stakeholders, adaptando mi comunicación oral al tipo de audiencia para asegurar una comprensión clara y efectiva de los resultados.<br>
         <b>Alberto Ponce</b><br>
         TB1: En esta entrega participé en la recoleccion de las entrevistas, la construcción de las User Personas, definiendo perfiles claros a partir de las entrevistas. También colaboré en la User Task Matrix, priorizando las tareas según frecuencia e importancia. Asimismo, apoyé en el diseño de los User Journey Mapping, destacando puntos de dolor y motivaciones de los usuarios.<br>
+        TP1: Expuse el proceso de creación de las vistas de Login y Register, además de explicar el despliegue del software en Vercel y las evidencias de colaboración del equipo. Utilice lenguaje formal y apoyos visuales claros para sustentar sus aportes.<br>
       </td>
       <td>
         Consideramos que la comunicación oral fue aplicada de manera clara y estratégica, logrando exponer hallazgos, transmitir insights y sostener discusiones con efectividad frente a diferentes audiencias. Gracias a ello, se alcanzó una comprensión común del problema y se sentaron bases sólidas para proponer soluciones innovadoras en el marco del Lean UX Process.
@@ -205,13 +230,16 @@
       <td width="25%"><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
       <td>
         <b>Giorgio Awad</b><br>
-        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task     Matrix. <br>
+        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix. <br>
+        TP1: En esta entrega redacté la sección del Development Evidence, Execution Evidence y el Services Documentation, asegurando que la información técnica de los componentes Notifications y Providers fuera comprensible tanto para el equipo como para el lector del informe. Utilicé un lenguaje claro, estructurado y con soporte visual para facilitar la comprensión del desarrollo.<br>
         <b>Manuel Sanchez</b><br>
         TB1: Para esta entrega le di prioridad a la explicación de nuestra propuesta, problemática, hipótesis, etc.<br>
+        TP1: Elaboré las secciones del Sprint Planning, Aspect Leaders y Collaborators, además de documentar el desarrollo de los módulos Orders, Terminals y el Web App Layout. Cuidé la estructura del texto para mantener una secuencia lógica y una presentación clara de las responsabilidades y avances del equipo.<br>
         <b>Saul Ortega</b><br>
         TB1: Para esta entrega, elaboré reportes y resúmenes de los hallazgos de entrevistas, adaptando el lenguaje y nivel de detalle según la audiencia para asegurar una comunicación escrita clara y efectiva..<br>
         <b>Alberto Ponce</b><br>
         TB1: Para esta entrega me encargué de redactar y organizar la información de las User Personas. También participé en la documentación del User Task Matrix y del User Journey Mapping, resumiendo hallazgos de manera estructurada. Adapté mi redacción para mantener un lenguaje profesional, preciso y accesible.<br>
+        TP1: Redacté las secciones de Software Deployment Evidence y Team Collaboration Insights, además de describir el funcionamiento de las vistas Login y Register.<br>
       </td>
       <td>
         La comunicación escrita se utilizó de forma clara y estratégica, adaptando el nivel de detalle y el lenguaje según la audiencia. Esto permitió documentar hallazgos, explicar la problemática y presentar propuestas de manera efectiva, logrando que toda la información fuera comprendida y validada en el marco del Lean UX Process.
