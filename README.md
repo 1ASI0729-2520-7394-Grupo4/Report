@@ -69,9 +69,31 @@
         • Configuración inicial del repositorio y del Landing Page <br>
         • Aplicación de GitFlow y convenciones de commits
       </td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>TP1</td>
+      <td>09/10/2025</td>
+      <td>
+        - Giorgio Marzouk Awad Vargas <br>
+        - Manuel Ángel Sánchez Arenas <br>
+        - Alberto Alejandro Ponce Perales
+      </td>
+      <td>
+        Se incluyeron los siguientes capítulos: <br>
+        5.2.2. Sprint 2 <br>
+        5.2.2.1. Sprint Planning 2.<br>
+        5.2.2.2. Aspect Leaders and Collaborators.<br>
+        5.2.2.3. Sprint Backlog 2. <br>
+        5.2.2.4. Development Evidence for Sprint Review.<br>
+        5.2.2.5. Execution Evidence for Sprint Review.<br>
+        5.2.2.6. Services Documentation Evidence for Sprint Review.<br>
+        5.2.2.7. Software Deployment Evidence for Sprint Review.<br>
+        5.2.2.8. Team Collaboration Insights during Sprint.
+      </td>
+    </tr>
   </tbody>
 </table>
+
 
 ## Project Report Collaboration Insights
 
@@ -116,12 +138,12 @@
     - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4 Ubiquitous Language](#24-ubiquitous-language)
+  - [2.4 Big Picture Event Storming](#24-big-picture-event-storming)
+  - [2.5 Ubiquitous Language](#25-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-  - [3.2 User Stories](#32-user-stories)
-  - [3.3 Impact Mapping](#33-impact-mapping)
-  - [3.4 Product Backlog](#34-product-backlog)
+  - [3.1 User Stories](#31-user-stories)
+  - [3.2 Impact Mapping](#32-impact-mapping)
+  - [3.3 Product Backlog](#33-product-backlog)
 -[Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
@@ -165,6 +187,15 @@
       - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2 Sprint 2](#522-sprint-2)
+      - [5.2.2.1 Sprint Planning](#5221-sprint-planning-2)
+      - [5.2.2.2 Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3 Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4 Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5 Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -189,13 +220,16 @@
       <td width="25%"><b>Comunica oralmente con efectividad a rangos de audiencia</b></td>
       <td>
         <b>Giorgio Awad</b><br>
-        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task     Matrix.<br>
+        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix.<br>
+        TP1: Explique con claridad la funcionalidad de los componentes Notifications y Providers, detallando su aporte técnico y su integración con el sistema. Utilice un lenguaje técnico comprensible, apoyándose en ejemplos visuales para evidenciar el funcionamiento.<br>
         <b>Manuel Sanchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
+        TP1: Presente de manera estructurada el desarrollo del Order, Terminals y el Web App Layout, resaltando cómo estos módulos mejoran la navegación y experiencia del usuario. Comunique con fluidez los roles del equipo y la planificación del sprint.<br>
         <b>Saul Ortega</b><br>
         TB1: Para esta entrega, me encargué de realizar entrevistas a usuarios dentro del Lean UX Process, así como también del análisis de la información obtenida. Posteriormente, expuse los hallazgos al equipo y a los stakeholders, adaptando mi comunicación oral al tipo de audiencia para asegurar una comprensión clara y efectiva de los resultados.<br>
         <b>Alberto Ponce</b><br>
         TB1: En esta entrega participé en la recoleccion de las entrevistas, la construcción de las User Personas, definiendo perfiles claros a partir de las entrevistas. También colaboré en la User Task Matrix, priorizando las tareas según frecuencia e importancia. Asimismo, apoyé en el diseño de los User Journey Mapping, destacando puntos de dolor y motivaciones de los usuarios.<br>
+        TP1: Expuse el proceso de creación de las vistas de Login y Register, además de explicar el despliegue del software en Vercel y las evidencias de colaboración del equipo. Utilice lenguaje formal y apoyos visuales claros para sustentar sus aportes.<br>
       </td>
       <td>
         Consideramos que la comunicación oral fue aplicada de manera clara y estratégica, logrando exponer hallazgos, transmitir insights y sostener discusiones con efectividad frente a diferentes audiencias. Gracias a ello, se alcanzó una comprensión común del problema y se sentaron bases sólidas para proponer soluciones innovadoras en el marco del Lean UX Process.
@@ -205,13 +239,16 @@
       <td width="25%"><b>Comunica por escrito con efectividad a diferentes rangos de audiencia</b></td>
       <td>
         <b>Giorgio Awad</b><br>
-        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task     Matrix. <br>
+        TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix. <br>
+        TP1: En esta entrega redacté la sección del Development Evidence, Execution Evidence y el Services Documentation, asegurando que la información técnica de los componentes Notifications y Providers fuera comprensible tanto para el equipo como para el lector del informe. Utilicé un lenguaje claro, estructurado y con soporte visual para facilitar la comprensión del desarrollo.<br>
         <b>Manuel Sanchez</b><br>
         TB1: Para esta entrega le di prioridad a la explicación de nuestra propuesta, problemática, hipótesis, etc.<br>
+        TP1: Elaboré las secciones del Sprint Planning, Aspect Leaders y Collaborators, además de documentar el desarrollo de los módulos Orders, Terminals y el Web App Layout. Cuidé la estructura del texto para mantener una secuencia lógica y una presentación clara de las responsabilidades y avances del equipo.<br>
         <b>Saul Ortega</b><br>
         TB1: Para esta entrega, elaboré reportes y resúmenes de los hallazgos de entrevistas, adaptando el lenguaje y nivel de detalle según la audiencia para asegurar una comunicación escrita clara y efectiva..<br>
         <b>Alberto Ponce</b><br>
         TB1: Para esta entrega me encargué de redactar y organizar la información de las User Personas. También participé en la documentación del User Task Matrix y del User Journey Mapping, resumiendo hallazgos de manera estructurada. Adapté mi redacción para mantener un lenguaje profesional, preciso y accesible.<br>
+        TP1: Redacté las secciones de Software Deployment Evidence y Team Collaboration Insights, además de describir el funcionamiento de las vistas Login y Register.<br>
       </td>
       <td>
         La comunicación escrita se utilizó de forma clara y estratégica, adaptando el nivel de detalle y el lenguaje según la audiencia. Esto permitió documentar hallazgos, explicar la problemática y presentar propuestas de manera efectiva, logrando que toda la información fuera comprendida y validada en el marco del Lean UX Process.
@@ -980,7 +1017,7 @@ b. User Persona 2: Proveedores de combustible
   </tbody>
 </table>
 
-# Capitulo III: Requirements Specifications
+# Capítulo III: Requirements Specification
 
 ## 3.1 User Stories
 
@@ -2934,6 +2971,317 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de F
 ![Deployment Visual Evidence of Analytics](assets/chapter-5/vercel-landing-analytics.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+ 
+<p>
+    <strong>Resumen:</strong><br>
+    El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.
+</p>
+
+<h4>Evidencia de Colaboración:</h4>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h4>Principales Herramientas de Comunicación:</h4>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+<table border>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 2</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>01/10/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 AM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Giorgio Marzouk Awad Vargas - u202324041<br>
+          Alberto Alejandro Ponce Perales - u202320684
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Review Summary</td>
+        <td>Durante el Sprint 1, el equipo de FuelTrack completó con éxito la implementación de la Landing Page, cumpliendo con las User Stories priorizadas en el backlog.<br>El trabajo incluyó: Maquetación completa de las secciones: Home, About Us, How it Works?, Benefits, Testimonials, Pricing y Contact Us. Implementación de estilos CSS coherentes y diseño responsive adaptable a diversos dispositivos. Ejecución de commits colaborativos en la rama main del repositorio GitHub, asegurando trazabilidad y control de versiones.
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 1 Retrospective Summary</td>
+        <td>El equipo realizó un análisis conjunto de desempeño y aprendizajes obtenidos durante el Sprint 1. Aspectos positivos:<br>Colaboración constante entre todos los miembros mediante GitHub y WhatsApp.Flujo de trabajo ordenado bajo el modelo Gitflow, permitiendo desarrollo paralelo sin conflictos.Buena planificación inicial que permitió cumplir con los objetivos del sprint en el plazo establecido.<br>Oportunidades de mejora: Optimizar la asignación de tareas para equilibrar la carga de trabajo entre los integrantes. Documentar de forma más detallada los avances intermedios en los issues del repositorio. Definir con mayor claridad los criterios de aceptación de cada User Story para reducir iteraciones.<br>Conclusión general: El sprint cumplió con sus metas principales, estableciendo una base sólida para las próximas iteraciones donde se integrarán funcionalidades de backend y servicios API. El equipo demostró buena cohesión, compromiso y comunicación, elementos clave para el éxito de los próximos desarrollos.</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 2 Goal</td>
+        <td>
+        Desarrollar de manera éxitos el Front-End con vistas de nuestro proyecto FuelTrack. Asimismo, buscamos desplegarlo de manera éxitosa usando herramientas como Vercel. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Velocity</td>
+        <td>12</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>22</td>
+    </tr>
+</table>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Frontend</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>manuels7a</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>GiorgioAwad</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alberto Alejandro Ponce Perales</td>
+      <td>aponceperales</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.3. Sprint Backlog 2
+
+<table border>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 2</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US05</td>
+        <td>Registrar nuevo pedido</td>
+        <td>W01</td>
+        <td>Como solicitante, quiero registrar un pedido con tipo y cantidad de combustible para que el proveedor lo procese.</td>
+        <td>4 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US05</td>
+        <td>Consultar estado del pedido</td>
+        <td>W02</td>
+        <td>Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados.</td>
+        <td>2 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US08</td>
+        <td>Registrar información de pago</td>
+        <td>W03</td>
+        <td>Como solicitante, quiero ingresar la información de los pagos correspondientes para validar el pedido ante el proveedor.</td>
+        <td>3 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US15</td>
+        <td>Iniciar sesión</td>
+        <td>W04</td>
+        <td>Como usuario registrado, quiero iniciar sesión con correo y contraseña para acceder a mi cuenta.</td>
+        <td>3 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US17</td>
+        <td>Cerrar sesión</td>
+        <td>W05</td>
+        <td>Como usuario registrado, quiero poder cerrar sesión para mantener segura mi cuenta.</td>
+        <td>5 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US18</td>
+        <td>Ver resumen de pedidos (Solicitante)</td>
+        <td>W06</td>
+        <td>Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados.</td>
+        <td>5 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US34</td>
+        <td>Recibir notificación de aprobación</td>
+        <td>W07</td>
+        <td>Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para estar informado.</td>
+        <td>4 horas</td>
+        <td>Giorgio</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US35</td>
+        <td>Notificación de pedido despachado</td>
+        <td>W07</td>
+        <td>Como solicitante, quiero recibir una notificación cuando un pedido haya sido despachado para estar informado.</td>
+        <td>3 horas</td>
+        <td>Giorgio</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo se centró en la implementación del frontend del sistema FuelTrack, desarrollando las principales vistas y componentes de la aplicación. Se trabajó en la estructura visual y navegación entre pantallas para dispositivos de escritorio.
+
+El control de versiones se gestionó mediante GitHub bajo el flujo Gitflow, realizando commits y revisiones colaborativas para asegurar la calidad del código. Con esta iteración, se consolidó la base visual del sistema, lista para su integración con la capa de servicios en los próximos sprints.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>50ad8e1</td>
+    <td>feat: integration and routing added
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>52a0565</td>
+    <td>hotfix: changed not added to stage fixed
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>62f7479</td>
+    <td>feat: added login and register
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>ca5ee77</td>
+    <td>feat: Added notifications and providers components
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+</tbody>
+
+</table>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo completó el desarrollo del frontend funcional del sistema FuelTrack, implementando las vistas principales que conforman la interfaz de usuario. Estas vistas fueron diseñadas priorizando la usabilidad y la coherencia visual.
+- **Login:** Presenta la vista de login de FuelTrack.
+![Login](assets/chapter-5/frontend-login.png)
+
+- **Orders:** Muestra la vista de pedidos.
+![Orders](assets/chapter-5/frontend-orders.png)
+
+- **Terminals:** Señala los terminales con sus ubicaciones y su estado.
+![Terminals](assets/chapter-5/frontend-terminals.png)
+
+- **Notifications:** Muestra el historial de notificaciones como por ejemplo: Error de sistema, intento de login, bajo en stock y pedido completado. 
+![Notifications](assets/chapter-5/frontend-notifications.png)
+
+- **Providers:** Muestra los proveedores con el tipo de combustible que brindan. Asimismo, señala información de cada proveedor, como por ejemplo: Terminal principal del Callao, actualización de documentación pendiente, contrato nuevo firmado hace un mes. 
+![Providers](assets/chapter-5/frontend-providers.png)
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, por lo cual no se implementaron endpoints ni servicios API. El trabajo se centró en la interfaz de usuario, mas no en la integración del back-end.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+<p>
+    <strong>Resumen:</strong><br>
+    El despliegue del frontend de FuelTrack se realizó exitosamente en la plataforma Vercel, permitiendo visualizar todas las vistas implementadas durante el Sprint 2. El entorno desplegado mantiene coherencia y asegura una experiencia responsive en distintos dispositivos.
+</p>
+
+<h4>Detalles del Despliegue:</h4>
+
+<ul>
+  <li><strong>URL de la Landing Page:</strong> <a href="https://fueltrack-frontend.vercel.app/login/" target="_blank">https://fueltrack-frontend.vercel.app/login/</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend</a></li>
+</ul>
+
+<h4>Evidencia:</h4>
+
+![Deployment Visual Evidence of Analytics](assets/chapter-5/vercel-analytics-sprint2.jpg)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
  
 <p>
     <strong>Resumen:</strong><br>
