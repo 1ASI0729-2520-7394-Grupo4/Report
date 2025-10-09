@@ -431,6 +431,88 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo del Landing Page de F
   <li>Google Meet (reuniones de planificación de sprint)</li>
 </ul>
 
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo se centró en la implementación del frontend del sistema FuelTrack, desarrollando las principales vistas y componentes de la aplicación. Se trabajó en la estructura visual y navegación entre pantallas para dispositivos de escritorio.
+
+El control de versiones se gestionó mediante GitHub bajo el flujo Gitflow, realizando commits y revisiones colaborativas para asegurar la calidad del código. Con esta iteración, se consolidó la base visual del sistema, lista para su integración con la capa de servicios en los próximos sprints.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>50ad8e1</td>
+    <td>feat: integration and routing added
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>52a0565</td>
+    <td>hotfix: changed not added to stage fixed
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>62f7479</td>
+    <td>feat: added login and register
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>develop</td>
+    <td>ca5ee77</td>
+    <td>feat: Added notifications and providers components
+</td>
+    <td>-</td>
+    <td>09/10/2025</td>
+  </tr>
+</tbody>
+
+</table>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo completó el desarrollo del frontend funcional del sistema FuelTrack, implementando las vistas principales que conforman la interfaz de usuario. Estas vistas fueron diseñadas priorizando la usabilidad y la coherencia visual.
+- **Login:** Presenta la vista de login de FuelTrack.
+![Login](assets/chapter-5/frontend-login.png)
+
+- **Orders:** Muestra la vista de pedidos.
+![Orders](assets/chapter-5/frontend-orders.png)
+
+- **Terminals:** Señala los terminales con sus ubicaciones y su estado.
+![Terminals](assets/chapter-5/frontend-terminals.png)
+
+- **Notifications:** Muestra el historial de notificaciones como por ejemplo: Error de sistema, intento de login, bajo en stock y pedido completado. 
+![Notifications](assets/chapter-5/frontend-notifications.png)
+
+- **Providers:** Muestra los proveedores con el tipo de combustible que brindan. Asimismo, señala información de cada proveedor, como por ejemplo: Terminal principal del Callao, actualización de documentación pendiente, contrato nuevo firmado hace un mes. 
+![Providers](assets/chapter-5/frontend-providers.png)
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, por lo cual no se implementaron endpoints ni servicios API. El trabajo se centró en la interfaz de usuario, mas no en la integración del back-end.
+
+
 # Conclusiones
 
 * El proyecto FuelTrack propuso una solución práctica para mejorar la gestión de pedidos de combustible, partiendo de una comprensión real de las necesidades del mercado y los usuarios. La propuesta de valor se validó con herramientas ágiles como Lean UX, entrevistas y análisis de la competencia, lo que permitió definir un producto enfocado en resolver problemas de eficiencia y comunicación.
