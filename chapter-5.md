@@ -512,6 +512,43 @@ Durante el Sprint 2, el equipo completó el desarrollo del frontend funcional de
 
 Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, por lo cual no se implementaron endpoints ni servicios API. El trabajo se centró en la interfaz de usuario, mas no en la integración del back-end.
 
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+<p>
+    <strong>Resumen:</strong><br>
+    El despliegue del frontend de FuelTrack se realizó exitosamente en la plataforma Vercel, permitiendo visualizar todas las vistas implementadas durante el Sprint 2. El entorno desplegado mantiene coherencia y asegura una experiencia responsive en distintos dispositivos.
+</p>
+
+<h4>Detalles del Despliegue:</h4>
+
+<ul>
+  <li><strong>URL de la Landing Page:</strong> <a href="https://fueltrack-frontend.vercel.app/login/" target="_blank">https://fueltrack-frontend.vercel.app/login/</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend</a></li>
+</ul>
+
+<h4>Evidencia:</h4>
+
+![Deployment Visual Evidence of Analytics](assets/chapter-5/vercel-analytics-sprint2.jpg)
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+ 
+<p>
+    <strong>Resumen:</strong><br>
+    El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.
+</p>
+
+<h4>Evidencia de Colaboración:</h4>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h4>Principales Herramientas de Comunicación:</h4>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
 
 # Conclusiones
 
