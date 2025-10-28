@@ -100,11 +100,28 @@
 **Link del repositorio del informe:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/Report](https://github.com/1ASI0729-2520-7394-Grupo4/Report)
 
+**Link de los repositorios de la organización:**
+
 **Link del repositorio de la Landing Page:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/landing-page](https://github.com/1ASI0729-2520-7394-Grupo4/landing-page)
 
 **Link de los repositorios de la organización:**  
 [https://github.com/orgs/1ASI0729-2520-7394-Grupo4/repositories](https://github.com/orgs/1ASI0729-2520-7394-Grupo4/repositories)
+
+Este informe ha sido desarrollado de forma colaborativa mediante GitHub, empleando GitFlow y Conventional Commits. Cada miembro del equipo ha contribuido con commits y ramas durante el desarrollo del proyecto.
+
+**Participación por miembro**
+
+A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
+
+<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+
+**Evolución temporal de commits**
+
+El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+
+<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+
 
 ## Contenido
 
