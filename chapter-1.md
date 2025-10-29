@@ -114,13 +114,13 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
-<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+<img src="assets/chapter-1/Contributors.png" alt="Contributors">
 
 **Evolución temporal de commits**
 
-El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+El siguiente gráfico muestra un gráfico de barras con la evolución semanal de los commits realizados por todos los miembros:
 
-<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+<img src="assets/chapter-1/Commits.png" alt="Commits">
 
 
 ## Contenido
