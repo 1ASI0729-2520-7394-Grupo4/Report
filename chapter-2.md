@@ -216,7 +216,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 - **Nombres:** Lewis
 - **Apellidos:** Rengifo
 - **Edad:** 25
-- **Distrito:** Rimac
+- **Distrito:** Rímac
 - **Captura de la entrevista:** 
 
 <p align="center">
@@ -261,7 +261,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 
 **Entrevista 3**
 - **Nombres:**  Enrique
-- **Apellidos:**  Gutierrez
+- **Apellidos:**  Gutiérrez
 - **Edad:**  25
 - **Distrito:** Santiago de Surco
 - **Captura de la entrevista:**
@@ -317,13 +317,13 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
     </tr>
     <tr>
       <td>Nivel educativo</td>
-      <td>Educacion superior</td>
+      <td>Educación superior</td>
       <td>Educación superior</td>
       <td>Educación superior</td>
     </tr>
     <tr>
       <td>Herramientas principales</td>
-      <td>Excel, llamadas y correos electronicos</td>
+      <td>Excel, llamadas y correos electrónicos</td>
       <td>Excel, correos, llamadas, WhatsApp</td>
       <td>Hojas de cálculo y sistema parcial de control de inventario</td>
     </tr>
@@ -522,7 +522,7 @@ b. User Persona 2: Proveedores de combustible
   <tbody>
     <tr>
       <td><strong>Requester (Solicitante)</strong></td>
-      <td>Usuario representante de una empresa que requiere abastecimiento de combustible</td>
+      <td>Usuario representante de una empresa que requiere abastecimiento de combustible.</td>
       <td>Solicitante</td>
     </tr>
     <tr>
@@ -537,7 +537,7 @@ b. User Persona 2: Proveedores de combustible
     </tr>
     <tr>
       <td><strong>Plant (Planta)</strong></td>
-      <td>Punto de distribución del combustible perteneciente a al proveedor.</td>
+      <td>Punto de distribución del combustible perteneciente al proveedor.</td>
       <td>Solicitante, Proveedor</td>
     </tr>
     <tr>
@@ -552,7 +552,7 @@ b. User Persona 2: Proveedores de combustible
     </tr>
     <tr>
       <td><strong>Quotation (Cotización)</strong></td>
-      <td>Propuesta formal que un proveedor genera detallando precios, productos, entre otras condiciones</td>
+      <td>Propuesta formal que un proveedor genera detallando precios, productos, entre otras condiciones.</td>
       <td>Solicitante, Proveedor</td>
     </tr>
     <tr>

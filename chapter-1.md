@@ -8,7 +8,7 @@
   <p><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
 </div>
 
-<h2 align="center">Relación de Integrantes:</h3>
+<h2 align="center">Relación de Integrantes:</h2>
 
 <div align="center">
   <table>
@@ -18,24 +18,24 @@
     </tr>
     <tr>
       <td>u202324041</td>
-      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>Awad Vargas Giorgio Marzouk</td>
     </tr>
     <tr>
       <td>u201817507</td>
-      <td>Manuel Angel Sanchez Arenas</td>
+      <td>Sánchez Arenas Manuel Ángel</td>
     </tr>
     <tr>
       <td>u20231c019</td>
-      <td>Saul Ortega Muñoz</td>
+      <td>Ortega Muñoz Saul</td>
     </tr>
     <tr>
       <td>u202320684</td>
-      <td>Alberto Alejandro Ponce Perales</td>
+      <td>Ponce Perales Alberto Alejandro</td>
     </tr>
   </table>
 </div>
 
-<p align="center"><strong>Mes y Año:</strong> Spetiembre 2025</p>
+<p align="center"><strong>Mes y Año:</strong> Septiembre 2025</p>
 
 ## Registro de Versiones del Informe
 
@@ -45,7 +45,7 @@
       <th><b>Versión</b></th>
       <th><b>Fecha</b></th>
       <th><b>Autores</b></th>
-      <th><b>Descripción de Modificación</b></th>
+      <th><b>Descripción de modificación</b></th>
     </tr>
   </thead>
   <tbody>
@@ -66,8 +66,8 @@
         • Capítulo III: Requirements Specification <br>
         • Capítulo IV: Product Design <br>
         • Capítulo V: Product Implementation, Validation & Deployment <br>
-        • Configuración inicial del repositorio y del Landing Page <br>
-        • Aplicación de GitFlow y convenciones de commits
+        • Configuración inicial del repositorio y de la Landing Page <br>
+        • Aplicación de GitFlow y conventional commits
       </td>
     </tr>
     <tr>
@@ -100,8 +100,6 @@
 **Link del repositorio del informe:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/Report](https://github.com/1ASI0729-2520-7394-Grupo4/Report)
 
-**Link de los repositorios de la organización:**
-
 **Link del repositorio de la Landing Page:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/landing-page](https://github.com/1ASI0729-2520-7394-Grupo4/landing-page)
 
@@ -114,13 +112,13 @@ Este informe ha sido desarrollado de forma colaborativa mediante GitHub, emplean
 
 A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
 
-<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+<img src="assets/chapter-1/Contributors.png" alt="Contributors">
 
 **Evolución temporal de commits**
 
 El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
 
-<img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
+<img src="assets/chapter-1/Commits.png" alt="Commits">
 
 
 ## Contenido
@@ -161,7 +159,7 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
   - [3.2 User Stories](#32-user-stories)
   - [3.3 Impact Mapping](#33-impact-mapping)
   - [3.4 Product Backlog](#34-product-backlog)
--[Capítulo IV: Product Design](#capítulo-iv-product-design)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
@@ -210,7 +208,7 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
     - [5.3.3. Evaluaciones heuristicas](#533-evaluaciones-heuristicas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-- [Bibliografia](#bibliografia)
+- [Bibliografía](#bibliografia)
 - [Anexos](#anexos)
 
 ## Student Outcome
@@ -230,7 +228,7 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
         <b>Giorgio Awad</b><br>
         TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix.<br>
         TP1: Explique con claridad la funcionalidad de los componentes Notifications y Providers, detallando su aporte técnico y su integración con el sistema. Utilice un lenguaje técnico comprensible, apoyándose en ejemplos visuales para evidenciar el funcionamiento.<br>
-        <b>Manuel Sanchez</b><br>
+        <b>Manuel Sánchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
         TP1: Presente de manera estructurada el desarrollo del Order, Terminals y el Web App Layout, resaltando cómo estos módulos mejoran la navegación y experiencia del usuario. Comunique con fluidez los roles del equipo y la planificación del sprint.<br>
         <b>Saul Ortega</b><br>
@@ -301,7 +299,7 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
     </tr>
     <tr>
       <td><img src="assets/chapter-1/foto-manuel.jpg" alt="Manuel Angel Sanchez Arenas" width="100"></td>
-      <td>Manuel Angel Sanchez Arenas</td>
+      <td>Manuel Ángel Sánchez Arenas</td>
       <td>u201817507</td>
       <td>Ingeniería de Software</td>
       <td>Desarrollo Fullstack: ASP.NetCORE MVC con Razor. Java básico. React.js</td>
@@ -310,7 +308,7 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
       <td><img src="assets/chapter-1/perfil-saul%20.jpg" alt="Saul Ortega Muñoz" width="80"></td>
       <td>Saul Ortega Muñoz</td>
       <td>u20231c019</td>
-      <td>Ingenieria de Software</td>
+      <td>Ingeniería de Software</td>
       <td>Soy una persona colaborativa y comunicativa, con facilidad para adaptarme a distintos roles y situaciones dentro de un equipo. Me caracterizo por la empatía, la responsabilidad y la organización, cualidades que me permiten aportar soluciones de manera proactiva. </td>
     </tr>
     <tr>
@@ -380,7 +378,7 @@ Para el desarrollo de FuelTrack, utilizamos el enfoque Lean UX, que nos permite 
 **User Assumptions (Suposiciones de Usuario)**
 
 * *¿Quién es el usuario?*
-  Los usuarios principales serían los encargados logísticos de los proovedores y las empresas solicitantes de combustible.
+  Los usuarios principales serían los encargados logísticos de los proveedores y las empresas solicitantes de combustible.
 * *¿Dónde encaja nuestro producto en su trabajo o vida?*
   FuelTracks encajaría en el día a día de los usuarios como una plataforma de gestión centralizada, que ayudaría a coordinar, rastrear y organizar pedidos de combustible. Reemplazando así los sistemas no ligados que se utilizan hoy en día.
 * *¿Qué problemas tiene nuestro producto que resolver?*
@@ -426,7 +424,7 @@ Para el desarrollo de FuelTrack, utilizamos el enfoque Lean UX, que nos permite 
 
 <img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
 
-## 1.3 Segmentos objetivo
+## 1.3 Segmentos objetivos
 
 **A. Empresas solicitantes de combustible**
 
@@ -438,6 +436,7 @@ Empresas medianas y grandes que requieren de combustible de forma constante para
 * Mantener constante comunicación con proveedores.
   
 **B. Proveedores de combustible**
+
 Son empresas dedicadas a la distribución de combustibles, atendiendo principalmente a clientes corporativos o industriales. Buscan herramientas que les permitan, optimizar sus operaciones y diferenciarse en un mercado cada vez más competitivo.
 
 *Motivaciones:*
