@@ -8,7 +8,7 @@
   <p><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
 </div>
 
-<h2 align="center">Relación de Integrantes:</h3>
+<h2 align="center">Relación de Integrantes:</h2>
 
 <div align="center">
   <table>
@@ -18,24 +18,24 @@
     </tr>
     <tr>
       <td>u202324041</td>
-      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>Awad Vargas Giorgio Marzouk</td>
     </tr>
     <tr>
       <td>u201817507</td>
-      <td>Manuel Angel Sanchez Arenas</td>
+      <td>Sánchez Arenas Manuel Ángel</td>
     </tr>
     <tr>
       <td>u20231c019</td>
-      <td>Saul Ortega Muñoz</td>
+      <td>Ortega Muñoz Saul</td>
     </tr>
     <tr>
       <td>u202320684</td>
-      <td>Alberto Alejandro Ponce Perales</td>
+      <td>Ponce Perales Alberto Alejandro</td>
     </tr>
   </table>
 </div>
 
-<p align="center"><strong>Mes y Año:</strong> Spetiembre 2025</p>
+<p align="center"><strong>Mes y Año:</strong> Septiembre 2025</p>
 
 ## Registro de Versiones del Informe
 
@@ -45,7 +45,7 @@
       <th><b>Versión</b></th>
       <th><b>Fecha</b></th>
       <th><b>Autores</b></th>
-      <th><b>Descripción de Modificación</b></th>
+      <th><b>Descripción de modificación</b></th>
     </tr>
   </thead>
   <tbody>
@@ -66,8 +66,8 @@
         • Capítulo III: Requirements Specification <br>
         • Capítulo IV: Product Design <br>
         • Capítulo V: Product Implementation, Validation & Deployment <br>
-        • Configuración inicial del repositorio y del Landing Page <br>
-        • Aplicación de GitFlow y convenciones de commits
+        • Configuración inicial del repositorio y de la Landing Page <br>
+        • Aplicación de GitFlow y conventional commits
       </td>
     </tr>
     <tr>
@@ -91,6 +91,27 @@
         5.2.2.8. Team Collaboration Insights during Sprint.
       </td>
     </tr>
+    <tr>
+      <td>TB2</td>
+      <td>16/11/2025</td>
+      <td>
+        - Giorgio Marzouk Awad Vargas <br>
+        - Manuel Ángel Sánchez Arenas <br>
+        - Alberto Alejandro Ponce Perales
+      </td>
+      <td>
+        Se incluyeron los siguientes capítulos: <br>
+        5.2.3. Sprint 3 <br>
+        5.2.3.1. Sprint Planning 3.<br>
+        5.2.3.2. Aspect Leaders and Collaborators.<br>
+        5.2.3.3. Sprint Backlog 3. <br>
+        5.2.3.4. Development Evidence for Sprint Review.<br>
+        5.2.3.5. Execution Evidence for Sprint Review.<br>
+        5.2.3.6. Services Documentation Evidence for Sprint Review.<br>
+        5.2.3.7. Software Deployment Evidence for Sprint Review.<br>
+        5.2.3.8. Team Collaboration Insights during Sprint.
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -103,8 +124,30 @@
 **Link del repositorio de la Landing Page:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/landing-page](https://github.com/1ASI0729-2520-7394-Grupo4/landing-page)
 
+**Link del repositorio del fronted:**  
+[https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend](https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend)
+
+**Link del repositorio del backend:**  
+[https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend](https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend)
+
 **Link de los repositorios de la organización:**  
 [https://github.com/orgs/1ASI0729-2520-7394-Grupo4/repositories](https://github.com/orgs/1ASI0729-2520-7394-Grupo4/repositories)
+
+Este informe ha sido desarrollado de forma colaborativa mediante GitHub, empleando GitFlow y Conventional Commits. Cada miembro del equipo ha contribuido con commits y ramas durante el desarrollo del proyecto.
+
+**Participación por miembro**
+
+A continuación, se muestra un gráfico de barras con la cantidad de commits realizados por cada integrante del equipo:
+
+<img src="assets/chapter-1/Contributors.png" alt="Contributors">
+
+**Evolución temporal de commits**
+
+El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+
+<img src="assets/chapter-1/Commits.png" alt="Commits">
+
+
 
 ## Contenido
 
@@ -138,13 +181,13 @@
     - [2.3.3 User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4 Big Picture Event Storming](#24-big-picture-event-storming)
-  - [2.5 Ubiquitous Language](#25-ubiquitous-language)
+  - [2.4 Ubiquitous Language](#24-ubiquitous-language)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-  - [3.1 User Stories](#31-user-stories)
-  - [3.2 Impact Mapping](#32-impact-mapping)
-  - [3.3 Product Backlog](#33-product-backlog)
--[Capítulo IV: Product Design](#capítulo-iv-product-design)
+  - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2 User Stories](#32-user-stories)
+  - [3.3 Impact Mapping](#33-impact-mapping)
+  - [3.4 Product Backlog](#34-product-backlog)
+- [Capítulo IV: Product Design](#capítulo-iv-product-design)
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
@@ -196,13 +239,22 @@
       - [5.2.2.6 Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7 Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8 Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3 Sprint 3](#523-sprint-3)
+      - [5.2.3.1 Sprint Planning](#5231-sprint-planning-3)
+      - [5.2.3.2 Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3 Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4 Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5 Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones heuristicas](#533-evaluaciones-heuristicas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
 - [Conclusiones](#conclusiones)
-- [Bibliografia](#bibliografia)
+- [Bibliografía](#bibliografia)
 - [Anexos](#anexos)
 
 ## Student Outcome
@@ -222,7 +274,7 @@
         <b>Giorgio Awad</b><br>
         TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix.<br>
         TP1: Explique con claridad la funcionalidad de los componentes Notifications y Providers, detallando su aporte técnico y su integración con el sistema. Utilice un lenguaje técnico comprensible, apoyándose en ejemplos visuales para evidenciar el funcionamiento.<br>
-        <b>Manuel Sanchez</b><br>
+        <b>Manuel Sánchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
         TP1: Presente de manera estructurada el desarrollo del Order, Terminals y el Web App Layout, resaltando cómo estos módulos mejoran la navegación y experiencia del usuario. Comunique con fluidez los roles del equipo y la planificación del sprint.<br>
         <b>Saul Ortega</b><br>
@@ -293,7 +345,7 @@
     </tr>
     <tr>
       <td><img src="assets/chapter-1/foto-manuel.jpg" alt="Manuel Angel Sanchez Arenas" width="100"></td>
-      <td>Manuel Angel Sanchez Arenas</td>
+      <td>Manuel Ángel Sánchez Arenas</td>
       <td>u201817507</td>
       <td>Ingeniería de Software</td>
       <td>Desarrollo Fullstack: ASP.NetCORE MVC con Razor. Java básico. React.js</td>
@@ -302,7 +354,7 @@
       <td><img src="assets/chapter-1/perfil-saul%20.jpg" alt="Saul Ortega Muñoz" width="80"></td>
       <td>Saul Ortega Muñoz</td>
       <td>u20231c019</td>
-      <td>Ingenieria de Software</td>
+      <td>Ingeniería de Software</td>
       <td>Soy una persona colaborativa y comunicativa, con facilidad para adaptarme a distintos roles y situaciones dentro de un equipo. Me caracterizo por la empatía, la responsabilidad y la organización, cualidades que me permiten aportar soluciones de manera proactiva. </td>
     </tr>
     <tr>
@@ -372,7 +424,7 @@ Para el desarrollo de FuelTrack, utilizamos el enfoque Lean UX, que nos permite 
 **User Assumptions (Suposiciones de Usuario)**
 
 * *¿Quién es el usuario?*
-  Los usuarios principales serían los encargados logísticos de los proovedores y las empresas solicitantes de combustible.
+  Los usuarios principales serían los encargados logísticos de los proveedores y las empresas solicitantes de combustible.
 * *¿Dónde encaja nuestro producto en su trabajo o vida?*
   FuelTracks encajaría en el día a día de los usuarios como una plataforma de gestión centralizada, que ayudaría a coordinar, rastrear y organizar pedidos de combustible. Reemplazando así los sistemas no ligados que se utilizan hoy en día.
 * *¿Qué problemas tiene nuestro producto que resolver?*
@@ -418,7 +470,7 @@ Para el desarrollo de FuelTrack, utilizamos el enfoque Lean UX, que nos permite 
 
 <img src="assets/chapter-1/lean-ux-canvas.png" alt="Lean UX Canvas">
 
-## 1.3 Segmentos objetivo
+## 1.3 Segmentos objetivos
 
 **A. Empresas solicitantes de combustible**
 
@@ -430,6 +482,7 @@ Empresas medianas y grandes que requieren de combustible de forma constante para
 * Mantener constante comunicación con proveedores.
   
 **B. Proveedores de combustible**
+
 Son empresas dedicadas a la distribución de combustibles, atendiendo principalmente a clientes corporativos o industriales. Buscan herramientas que les permitan, optimizar sus operaciones y diferenciarse en un mercado cada vez más competitivo.
 
 *Motivaciones:*
@@ -655,7 +708,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 - **Nombres:** Lewis
 - **Apellidos:** Rengifo
 - **Edad:** 25
-- **Distrito:** Rimac
+- **Distrito:** Rímac
 - **Captura de la entrevista:** 
 
 <p align="center">
@@ -700,7 +753,7 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
 
 **Entrevista 3**
 - **Nombres:**  Enrique
-- **Apellidos:**  Gutierrez
+- **Apellidos:**  Gutiérrez
 - **Edad:**  25
 - **Distrito:** Santiago de Surco
 - **Captura de la entrevista:**
@@ -756,13 +809,13 @@ Si bien **FuelTrack** está inicialmente orientada a empresas locales, el modelo
     </tr>
     <tr>
       <td>Nivel educativo</td>
-      <td>Educacion superior</td>
+      <td>Educación superior</td>
       <td>Educación superior</td>
       <td>Educación superior</td>
     </tr>
     <tr>
       <td>Herramientas principales</td>
-      <td>Excel, llamadas y correos electronicos</td>
+      <td>Excel, llamadas y correos electrónicos</td>
       <td>Excel, correos, llamadas, WhatsApp</td>
       <td>Hojas de cálculo y sistema parcial de control de inventario</td>
     </tr>
@@ -961,7 +1014,7 @@ b. User Persona 2: Proveedores de combustible
   <tbody>
     <tr>
       <td><strong>Requester (Solicitante)</strong></td>
-      <td>Usuario representante de una empresa que requiere abastecimiento de combustible</td>
+      <td>Usuario representante de una empresa que requiere abastecimiento de combustible.</td>
       <td>Solicitante</td>
     </tr>
     <tr>
@@ -976,7 +1029,7 @@ b. User Persona 2: Proveedores de combustible
     </tr>
     <tr>
       <td><strong>Plant (Planta)</strong></td>
-      <td>Punto de distribución del combustible perteneciente a al proveedor.</td>
+      <td>Punto de distribución del combustible perteneciente al proveedor.</td>
       <td>Solicitante, Proveedor</td>
     </tr>
     <tr>
@@ -991,7 +1044,7 @@ b. User Persona 2: Proveedores de combustible
     </tr>
     <tr>
       <td><strong>Quotation (Cotización)</strong></td>
-      <td>Propuesta formal que un proveedor genera detallando precios, productos, entre otras condiciones</td>
+      <td>Propuesta formal que un proveedor genera detallando precios, productos, entre otras condiciones.</td>
       <td>Solicitante, Proveedor</td>
     </tr>
     <tr>
@@ -1017,7 +1070,7 @@ b. User Persona 2: Proveedores de combustible
   </tbody>
 </table>
 
-# Capítulo III: Requirements Specification
+# Capítulo III: Requirements Specifications
 
 ## 3.1 User Stories
 
@@ -1085,7 +1138,7 @@ b. User Persona 2: Proveedores de combustible
       <td>US08</td>
       <td>Registrar información de pago</td>
       <td>Como solicitante, quiero ingresar la información de los pagos correspondientes para validar el pedido ante el proveedor.</td>
-      <td><b>Escenario 1: Registro exitoso de depósitos</b> <br/> Dado que el solicitante ingresa la información depósitos,<br/>Cuando registra el pedido,<br/>Estos quedan vinculados a el.<br/><br/><b>Escenario 2: Validación del formulario de ingreso de depósitos</b> <br/> Dado que el solicitante intenta los datos del depósito,<br/>Cuando excede el límite de caracteres,<br/>Entonces el sistema muestra un mensaje de error.<br/><br/><b>Escenario 3: Validación de depósitos ya registrados</b> <br/> Dado que el solicitante ingresa un depósito con un número de operación repetido,<br/>Cuando intenta seguir con el registro,<br/>Entonces el sistema notifica el error.</td>
+      <td><b>Escenario 1: Registro exitoso de depósitos</b> <br/> Dado que el solicitante ingresa la información de depósitos,<br/>Cuando registra el pedido,<br/>Estos quedan vinculados a él.<br/><br/><b>Escenario 2: Validación del formulario de ingreso de depósitos</b> <br/> Dado que el solicitante intenta ingresar los datos del depósito,<br/>Cuando excede el límite de caracteres,<br/>Entonces el sistema muestra un mensaje de error.<br/><br/><b>Escenario 3: Validación de depósitos ya registrados</b> <br/> Dado que el solicitante ingresa un depósito con un número de operación repetido,<br/>Cuando intenta seguir con el registro,<br/>Entonces el sistema notifica el error.</td>
       <td>EP02</td>
     </tr>
     <tr>
@@ -1109,7 +1162,7 @@ b. User Persona 2: Proveedores de combustible
       <td>
         <b>Escenario 1: Aprobación de pedido con depósitos válidos</b><br/>
         Dado que el proveedor tiene el pago completo del pedido,<br/>
-        Cuando intenta lo aprueba,<br/>
+        Cuando intenta aprobarlo,<br/>
         Entonces el estado cambia a “Aprobado”.<br/><br/>
         <b>Escenario 2: No aprobar el pedido por pago incompleto</b><br/>
         Dado que el proveedor no cuenta con los depósitos suficientes para completar el pago del pedido,<br/>
@@ -3286,6 +3339,270 @@ Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, 
 <p>
     <strong>Resumen:</strong><br>
     El equipo colaboró mediante GitHub y WhatsApp durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue de la Landing Page.
+</p>
+
+<h4>Evidencia de Colaboración:</h4>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h4>Principales Herramientas de Comunicación:</h4>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table border>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>01/10/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 AM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Giorgio Marzouk Awad Vargas - u202324041<br>
+          Alberto Alejandro Ponce Perales - u202320684
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td>Durante el Sprint 2, el equipo de FuelTrack desarrolló los primeros avances del Frontend, cumpliendo con las User Stories seleccionadas en el backlog.<br>Para esta primera versión se el bundle context de Control y el despliegue respectivo la fake api.
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td>El equipo enfrentó diversos desafíos durante el Sprint 2, incluyendo la coordinación entre miembros para cumplir con los objetivos establecidos. Se identificaron áreas de mejora en la comunicación y en la definición de criterios de aceptación para las User Stories, lo que permitirá optimizar los procesos en futuros sprints.</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 3 Goal</td>
+        <td>
+        Desarrollar la primera fase del API REST y desplegar la base de datos MySQL necesaria para que el frontend consuma los datos de manera eficiente. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td>8</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>16</td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Backend</th>
+      <th>Fake API</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>manuels7a</td>
+      <td>L</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>GiorgioAwad</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alberto Alejandro Ponce Perales</td>
+      <td>aponceperales</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3
+
+<table border>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US34</td>
+        <td>Recibir notificación de aprobación</td>
+        <td>W01</td>
+        <td>Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para estar informado.</td>
+        <td>6 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US36</td>
+        <td>Ver listado de empresas</td>
+        <td>W02</td>
+        <td>Como proveedor, quiero ver una lista de empresas solicitantes para identificar a mis clientes frecuentes.</td>
+        <td>4 horas</td>
+        <td>Alberto</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US38</td>
+        <td>Ver gráfico de consumo (Solicitante)</td>
+        <td>W03</td>
+        <td>Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible.</td>
+        <td>5 horas</td>
+        <td>Giorgio</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US40</td>
+        <td>Descargar reporte PDF</td>
+        <td>W04</td>
+        <td>Como usuario de ambos segmentos, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo.</td>
+        <td>6 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo se concentró en el desarrollo del backend del sistema FuelTrack, implementando la primera fase del API REST y configurando la base de datos MySQL necesaria para el almacenamiento y gestión de datos. Se diseñaron y desarrollaron los endpoints principales que permitirán al frontend interactuar con el backend de manera eficiente.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>958e2b0</td>
+    <td>fix: CORS issue</td>
+    <td>-</td>
+    <td>16/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>6930b5b</td>
+    <td>update: update database connection URL</td>
+    <td>-</td>
+    <td>16/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>906a6ea</td>
+    <td>feat: Added Orders bounded context and shared bounded context</td>
+    <td>-</td>
+    <td>15/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>main</td>
+    <td>3d8c64e</td>
+    <td>feat: New backend repository structure</td>
+    <td>-</td>
+    <td>01/11/2025</td>
+  </tr>
+</tbody>
+
+</table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo completó la fase inicial del backend para el sistema FuelTrack, implementando los endpoints principales.
+
+- **Orders:** Presenta las órdenes de pedido de FuelTrack.
+![Orders](assets/chapter-5/endpoint-orders.png)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo logró realizar el primer despliegue del backend.
+
+![Services-Evidence](assets/chapter-5/services-evidence.png)
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<p>
+    <strong>Resumen:</strong><br>
+    El despliegue del backend de FuelTrack se realizó exitosamente en la plataforma Railway, presentando los primeros endpoints y logrando traer los primeros datos para el funcionamiento del sistema.
+</p>
+
+<h4>Detalles del Despliegue:</h4>
+
+<ul>
+  <li><strong>URL del backend:</strong> <a href="https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html" target="_blank">https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend</a></li>
+</ul>
+
+<h4>Evidencia:</h4>
+
+![Services-Evidence](assets/chapter-5/services-evidence.png)
+  
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+ 
+<p>
+    <strong>Resumen:</strong><br>
+    El equipo colaboró mediante GitHub, WhatsApp y reuniones de Google Meet durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue del backend así como el avance del frontend.
 </p>
 
 <h4>Evidencia de Colaboración:</h4>
