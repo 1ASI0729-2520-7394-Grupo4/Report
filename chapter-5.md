@@ -742,6 +742,270 @@ Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, 
   <li>Google Meet (reuniones de planificación de sprint)</li>
 </ul>
 
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table border>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>01/10/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 AM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Giorgio Marzouk Awad Vargas - u202324041<br>
+          Alberto Alejandro Ponce Perales - u202320684
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td>Durante el Sprint 2, el equipo de FuelTrack desarrolló los primeros avances del Frontend, cumpliendo con las User Stories seleccionadas en el backlog.<br>Para esta primera versión se el bundle context de Control y el despliegue respectivo la fake api.
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td>El equipo enfrentó diversos desafíos durante el Sprint 2, incluyendo la coordinación entre miembros para cumplir con los objetivos establecidos. Se identificaron áreas de mejora en la comunicación y en la definición de criterios de aceptación para las User Stories, lo que permitirá optimizar los procesos en futuros sprints.</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 3 Goal</td>
+        <td>
+        Desarrollar la primera fase del API REST y desplegar la base de datos MySQL necesaria para que el frontend consuma los datos de manera eficiente. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td>8</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>16</td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Backend</th>
+      <th>Fake API</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>manuels7a</td>
+      <td>L</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>GiorgioAwad</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alberto Alejandro Ponce Perales</td>
+      <td>aponceperales</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3
+
+<table border>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US34</td>
+        <td>Recibir notificación de aprobación</td>
+        <td>W01</td>
+        <td>Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para estar informado.</td>
+        <td>6 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US36</td>
+        <td>Ver listado de empresas</td>
+        <td>W02</td>
+        <td>Como proveedor, quiero ver una lista de empresas solicitantes para identificar a mis clientes frecuentes.</td>
+        <td>4 horas</td>
+        <td>Alberto</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US38</td>
+        <td>Ver gráfico de consumo (Solicitante)</td>
+        <td>W03</td>
+        <td>Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible.</td>
+        <td>5 horas</td>
+        <td>Giorgio</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US40</td>
+        <td>Descargar reporte PDF</td>
+        <td>W04</td>
+        <td>Como usuario de ambos segmentos, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo.</td>
+        <td>6 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo se concentró en el desarrollo del backend del sistema FuelTrack, implementando la primera fase del API REST y configurando la base de datos MySQL necesaria para el almacenamiento y gestión de datos. Se diseñaron y desarrollaron los endpoints principales que permitirán al frontend interactuar con el backend de manera eficiente.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>958e2b0</td>
+    <td>fix: CORS issue</td>
+    <td>-</td>
+    <td>16/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>6930b5b</td>
+    <td>update: update database connection URL</td>
+    <td>-</td>
+    <td>16/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>906a6ea</td>
+    <td>feat: Added Orders bounded context and shared bounded context</td>
+    <td>-</td>
+    <td>15/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>main</td>
+    <td>3d8c64e</td>
+    <td>feat: New backend repository structure</td>
+    <td>-</td>
+    <td>01/11/2025</td>
+  </tr>
+</tbody>
+
+</table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo completó la fase inicial del backend para el sistema FuelTrack, implementando los endpoints principales.
+
+- **Orders:** Presenta las órdenes de pedido de FuelTrack.
+![Orders](assets/chapter-5/endpoint-orders.png)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo logró realizar el primer despliegue del backend.
+
+![Services-Evidence](assets/chapter-5/services-evidence.png)
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<p>
+    <strong>Resumen:</strong><br>
+    El despliegue del backend de FuelTrack se realizó exitosamente en la plataforma Railway, presentando los primeros endpoints y logrando traer los primeros datos para el funcionamiento del sistema.
+</p>
+
+<h4>Detalles del Despliegue:</h4>
+
+<ul>
+  <li><strong>URL del backend:</strong> <a href="https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html" target="_blank">https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend</a></li>
+</ul>
+
+<h4>Evidencia:</h4>
+
+![Services-Evidence](assets/chapter-5/services-evidence.png)
+  
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+ 
+<p>
+    <strong>Resumen:</strong><br>
+    El equipo colaboró mediante GitHub, WhatsApp y reuniones de Google Meet durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue del backend así como el avance del frontend.
+</p>
+
+<h4>Evidencia de Colaboración:</h4>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h4>Principales Herramientas de Comunicación:</h4>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
 # Conclusiones
 
 * El proyecto FuelTrack propuso una solución práctica para mejorar la gestión de pedidos de combustible, partiendo de una comprensión real de las necesidades del mercado y los usuarios. La propuesta de valor se validó con herramientas ágiles como Lean UX, entrevistas y análisis de la competencia, lo que permitió definir un producto enfocado en resolver problemas de eficiencia y comunicación.
