@@ -384,19 +384,13 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
       <td>Desarrollo Fullstack: ASP.NetCORE MVC con Razor. Java básico. React.js</td>
     </tr>
     <tr>
-      <td><img src="assets/chapter-1/perfil-saul%20.jpg" alt="Saul Ortega Muñoz" width="80"></td>
-      <td>Saul Ortega Muñoz</td>
+      <td><img src="assets/chapter-1/foto-july.jpg" alt="July Zelmira Paico Calderon" width="80"></td>
+      <td>July Zelmira Paico Calderon</td>
       <td>u20231c019</td>
       <td>Ingeniería de Software</td>
-      <td>Soy una persona colaborativa y comunicativa, con facilidad para adaptarme a distintos roles y situaciones dentro de un equipo. Me caracterizo por la empatía, la responsabilidad y la organización, cualidades que me permiten aportar soluciones de manera proactiva. </td>
+      <td>Me considero una estudiante colaborativa, capaz de trabajar en equipo. Me gusta mucho la gestión de proyectos y organizar mi tiempo para alcanzar los objetivos planteados. En mis tiempos libres me gusta dibujar y aprender cosas nuevas en plataformas en línea. </td>
     </tr>
-    <tr>
-      <td><img src="assets/chapter-1/FotoAlberto.jpg" alt="Alberto Alejandro Ponce Perales" width="80"></td>
-      <td>Alberto Alejandro Ponce Perales</td>
-      <td>u202320684</td>
-      <td>Ingeniería de Software</td>
-      <td>Estudiante de la carrera de Ingeniería de Software en la UPC. Actualmente cuento con conocimientos en lenguajes de programación como C + + y manejo de Java. Considero que mis mayores virtudes son: la responsabilidad, capacidad de adaptarme, trabajar en equipo y la resiliencia.</td>
-    </tr>
+    
   </tbody>
 </table>
 
