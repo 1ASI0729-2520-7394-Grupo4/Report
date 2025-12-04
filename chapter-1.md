@@ -161,7 +161,7 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 
 **Evolución temporal de commits**
 
-El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
+El siguiente gráfico muestra un gráfico de barras con la evolución semanal de los commits realizados por todos los miembros:
 
 <img src="assets/chapter-1/Commits.png" alt="Commits">
 
