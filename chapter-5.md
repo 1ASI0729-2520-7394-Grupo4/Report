@@ -693,7 +693,7 @@ Durante el Sprint 2, el equipo completó el desarrollo del frontend funcional de
 - **Terminals:** Señala los terminales con sus ubicaciones y su estado.
 ![Terminals](assets/chapter-5/frontend-terminals.png)
 
-- **Notifications:** Muestra el historial de notificaciones como por ejemplo: Error de sistema, intento de login, bajo en stock y pedido completado. 
+- **Notifications:** Muestra el historial de notificaciones como por ejemplo: Error de sistema, intento de login, bajo en stock y pedido completado.
 ![Notifications](assets/chapter-5/frontend-notifications.png)
 
 - **Providers:** Muestra los proveedores con el tipo de combustible que brindan. Asimismo, señala información de cada proveedor, como por ejemplo: Terminal principal del Callao, actualización de documentación pendiente, contrato nuevo firmado hace un mes. 
@@ -742,6 +742,624 @@ Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, 
   <li>Google Meet (reuniones de planificación de sprint)</li>
 </ul>
 
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+<table border>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>01/10/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 AM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Giorgio Marzouk Awad Vargas - u202324041<br>
+          Alberto Alejandro Ponce Perales - u202320684
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Review Summary</td>
+        <td>Durante el Sprint 2, el equipo de FuelTrack desarrolló los primeros avances del Frontend, cumpliendo con las User Stories seleccionadas en el backlog.<br>Para esta primera versión se el bundle context de Control y el despliegue respectivo la fake api.
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 2 Retrospective Summary</td>
+        <td>El equipo enfrentó diversos desafíos durante el Sprint 2, incluyendo la coordinación entre miembros para cumplir con los objetivos establecidos. Se identificaron áreas de mejora en la comunicación y en la definición de criterios de aceptación para las User Stories, lo que permitirá optimizar los procesos en futuros sprints.</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 3 Goal</td>
+        <td>
+        Desarrollar la primera fase del API REST y desplegar la base de datos MySQL necesaria para que el frontend consuma los datos de manera eficiente. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Velocity</td>
+        <td>8</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>16</td>
+    </tr>
+</table>
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Backend</th>
+      <th>Fake API</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>manuels7a</td>
+      <td>L</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>GiorgioAwad</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Alberto Alejandro Ponce Perales</td>
+      <td>aponceperales</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.3.3. Sprint Backlog 3
+
+<table border>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US34</td>
+        <td>Recibir notificación de aprobación</td>
+        <td>W01</td>
+        <td>Como solicitante, quiero recibir una notificación cuando un pedido sea aprobado o rechazado para estar informado.</td>
+        <td>6 horas</td>
+        <td>Manuel</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US36</td>
+        <td>Ver listado de empresas</td>
+        <td>W02</td>
+        <td>Como proveedor, quiero ver una lista de empresas solicitantes para identificar a mis clientes frecuentes.</td>
+        <td>4 horas</td>
+        <td>Alberto</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US38</td>
+        <td>Ver gráfico de consumo (Solicitante)</td>
+        <td>W03</td>
+        <td>Como solicitante, quiero ver un gráfico de mi consumo mensual para tener control sobre el uso del combustible.</td>
+        <td>5 horas</td>
+        <td>Giorgio</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US40</td>
+        <td>Descargar reporte PDF</td>
+        <td>W04</td>
+        <td>Como usuario de ambos segmentos, quiero descargar un resumen de pedidos o ventas en formato PDF para archivarlo o compartirlo.</td>
+        <td>6 horas</td>
+        <td>Alejandro</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo se concentró en el desarrollo del backend del sistema FuelTrack, implementando la primera fase del API REST y configurando la base de datos MySQL necesaria para el almacenamiento y gestión de datos. Se diseñaron y desarrollaron los endpoints principales que permitirán al frontend interactuar con el backend de manera eficiente.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>958e2b0</td>
+    <td>fix: CORS issue</td>
+    <td>-</td>
+    <td>16/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>6930b5b</td>
+    <td>update: update database connection URL</td>
+    <td>-</td>
+    <td>16/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+    <td>main</td>
+    <td>906a6ea</td>
+    <td>feat: Added Orders bounded context and shared bounded context</td>
+    <td>-</td>
+    <td>15/11/2025</td>
+  </tr>
+  <tr>
+    <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+    <td>main</td>
+    <td>3d8c64e</td>
+    <td>feat: New backend repository structure</td>
+    <td>-</td>
+    <td>01/11/2025</td>
+  </tr>
+</tbody>
+
+</table>
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo completó la fase inicial del backend para el sistema FuelTrack, implementando los endpoints principales.
+
+- **Orders:** Presenta las órdenes de pedido de FuelTrack.
+![Orders](assets/chapter-5/endpoint-orders.png)
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo logró realizar el primer despliegue del backend.
+
+![Services-Evidence](assets/chapter-5/services-evidence.png)
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+<p>
+    <strong>Resumen:</strong><br>
+    El despliegue del backend de FuelTrack se realizó exitosamente en la plataforma Railway, presentando los primeros endpoints y logrando traer los primeros datos para el funcionamiento del sistema.
+</p>
+
+<h4>Detalles del Despliegue:</h4>
+
+<ul>
+  <li><strong>URL del backend:</strong> <a href="https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html" target="_blank">https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend</a></li>
+</ul>
+
+<h4>Evidencia:</h4>
+
+![Services-Evidence](assets/chapter-5/services-evidence.png)
+  
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+ 
+<p>
+    <strong>Resumen:</strong><br>
+    El equipo colaboró mediante GitHub, WhatsApp y reuniones de Google Meet durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue del backend así como el avance del frontend.
+</p>
+
+<h4>Evidencia de Colaboración:</h4>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h4>Principales Herramientas de Comunicación:</h4>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
+## 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+<table border>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 4</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>17/11/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>09:00 PM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Sanchez</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Giorgio Marzouk Awad Vargas - U202324041<br>
+          July Zelmira Paico Calderon - U20211D760
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Review Summary</td>
+        <td>El Sprint fue enteramente dedicado a las primeras etapas del desarrollo del backend, incluyendo la creación y prueba de los primeros endpoints, por lo que no fue completo en términos de funcionalidades de usuario.</td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Retrospective Summary</td>
+        <td>La coordinacón y distribución de tareas no fue óptima, lo que afectó la eficiencia del equipo al desarrollar el backend. Sin embargo, el avance logrado fue base para establecer mejores prácticas en el siguiente sprint.</td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 34 Goal</td>
+        <td>
+        Completar los endpoints restantes del API REST y finalizar la integración con el frontend para asegurar una comunicación fluida entre ambas capas del sistema FuelTrack. 
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 4 Velocity</td>
+        <td>12</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>24</td>
+    </tr>
+</table>
+
+### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Backend</th>
+      <th>Frontend</th>
+      <th>Landing Page</th>
+      <th>Documentation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manuel Sanchez</td>
+      <td>manuels7a</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Giorgio Awad</td>
+      <td>GiorgioAwad</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>July Paico</td>
+      <td>u20211d760</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.3. Sprint Backlog 4
+
+<table border>
+    <tr align="center">
+        <td colspan="2"><strong>Sprint #</strong></td>
+        <td colspan="6"><strong>Sprint 4</strong></td>
+    </tr>
+    <tr align="center">
+        <td colspan="2"><strong>User Story</strong></td>
+        <td colspan="6"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr align="center">
+        <td><strong>Id</strong></td>
+        <td><strong>Title</strong></td>
+        <td><strong>Id</strong></td>
+        <td><strong>Description</strong></td>
+        <td><strong>Estimation (Hours)</strong></td>
+        <td><strong>Assigned to</strong></td>
+        <td><strong>Status (To do / In process / To review / Done)</strong></td>
+    </tr>
+    <tr align="center">
+        <td>US06</td>
+        <td>Consultar estado del pedido</td>
+        <td>W01</td>
+        <td>Como solicitante, quiero ver el estado de mis pedidos para saber si están aprobados, en tránsito o entregados.</td>
+        <td>3 horas</td>
+        <td>Giorgio Awad</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US15</td>
+        <td>Iniciar sesión</td>
+        <td>W01</td>
+        <td>Como usuario registrado, quiero iniciar sesión con correo y contraseña para acceder a mi cuenta.</td>
+        <td>7 horas</td>
+        <td>July Paico</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US18</td>
+        <td>Ver resumen de pedidos</td>
+        <td>W01</td>
+        <td>Como solicitante, quiero ver un resumen de mis pedidos para identificar cuántos están en proceso o completados.</td>
+        <td>5 horas</td>
+        <td>Giorgio Awad</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US20</td>
+        <td>Endpoint: Login</td>
+        <td>W01</td>
+        <td>Como developer, quiero un endpoint para autenticar usuarios.</td>
+        <td>6 horas</td>
+        <td>July Paico</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US24</td>
+        <td>Endpoint: Consultar pedidos por usuario</td>
+        <td>W01</td>
+        <td>Como developer, quiero un endpoint para obtener todos los pedidos de un usuario.</td>
+        <td>4 horas</td>
+        <td>July Paico</td>
+        <td>Done</td>
+    </tr>
+    <tr align="center">
+        <td>US36</td>
+        <td>Ver listado de empresas</td>
+        <td>W01</td>
+        <td>Como proveedor, quiero ver una lista de empresas solicitantes para identificar a mis clientes frecuentes.</td>
+        <td>3 horas</td>
+        <td>July Paico</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+### 5.2.4.4. Development Evidence for Sprint Review
+
+En el transcuros del Sprint 4, el equipo dedicó a finalizar el desarrollo del backend del sistema FuelTrack en ramas dedicadas a los bundle context definidos, completando los endpoints restantes del API REST y asegurando la integración efectiva con el frontend. Se implementaron las funcionalidades necesarias para que ambas capas del sistema pudieran comunicarse de manera fluida y eficiente. Este progreso es validado mediante los commits realizados en los repositorios correspondientes.
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+      <td>main</td>
+      <td>3bf323c</td>
+      <td>update: new deployed frontend domain allowed</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+      <td>main</td>
+      <td>ffaefdf</td>
+      <td>fix: open api configuration</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+      <td>main</td>
+      <td>7e20748</td>
+      <td>Merge pull request #2 from 1ASI0729-2520-7394-Grupo4/feat/giorgio</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+      <td>main</td>
+      <td>d758333</td>
+      <td>Merge pull request #1 from 1ASI0729-2520-7394-Grupo4/feat/july</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-landing-page</td>
+      <td>main</td>
+      <td>13f8319</td>
+      <td>feat: section about the product & about the team added</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+      <td>main</td>
+      <td>3cace36</td>
+      <td>update: global interceptor configurated</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+      <td>main</td>
+      <td>bf9d8a4</td>
+      <td>feat: add registercomponent</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+      <td>main</td>
+      <td>d3ff69a</td>
+      <td>feat: add auth service for signUp request</td>
+      <td>-</td>
+      <td>04/12/2025</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+Durante el Sprint 3, el equipo completó el backend implementando los endpoints faltantes de los Bundle Context definidos:
+
+- **Orders:** Presenta las órdenes de pedido de FuelTrack.
+![Orders](assets/chapter-5/endpoints-orders.png)
+
+- **Users:** .
+![Users](assets/chapter-5/endpoints-users.png)
+
+- **Authentication:** Presenta las notificaciones recibidas por el usuario en FuelTrack.
+![Authentication](assets/chapter-5/endpoints-authentication.png)
+
+- **Payments:** Presenta las notificaciones recibidas por el usuario en FuelTrack.
+![Payments](assets/chapter-5/endpoints-payments.png)
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Para este sprint 4, el equipo realizó multiples cambios y mejoras en el backend del sistema FuelTrack, logrando completar los endpoints restantes del API y, en consecuencia, haciendo multiples despliegues en la plataforma Railway:
+
+- Evidencia del estado del despliegue de producción en Railway:
+![deployment-status](assets/chapter-5/deployment-status.png)
+
+- Evidencia de multiples despliegues realizados en Railway:
+![multiple-test-deployments](assets/chapter-5/multiple-test-deployments.png)
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+<p>
+    <strong>Resumen:</strong><br>
+    El despliegue del backend de FuelTrack se realizó exitosamente en la plataforma Railway, presentando los primeros endpoints y logrando traer los primeros datos para el funcionamiento del sistema.
+</p>
+
+<h4>Detalles del Despliegue del Backend:</h4>
+<ul>
+  <li><strong>URL del backend:</strong> <a href="https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html" target="_blank">https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend</a></li>
+</ul>
+
+<h4>Detalles del Despliegue del Frontend:</h4>
+<ul>
+  <li><strong>URL del frontend:</strong><a href="https://fueltrack-frontend.vercel.app/login" target="_blank">https://fueltrack-frontend.vercel.app/login</a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend</a></li>
+</ul>
+
+<h4>Detalles de la Landing Page:</h4>
+<ul>
+  <li><strong>URL de la Landing Page:</strong><a href="https://fueltrack-open-landing.vercel.app/
+  " target="_blank">https://fueltrack-open-landing.vercel.app/
+  </a></li>
+  <li><strong>Repositorio:</strong> <a href="https://github.com/1ASI0729-2520-7394-Grupo4/landing-page" target="_blank">https://github.com/1ASI0729-2520-7394-Grupo4/landing-page</a></li>
+</ul>
+
+<h4>Despliegue de Backend:</h4>
+
+![Services-Evidence](assets/chapter-5/sprint4-services-evidence.png)
+
+<h4>Despliegue de Frontend:</h4>
+
+![Web-App-Evidence](assets/chapter-5/sprint4-web-app-evidence.png)
+
+<h4>Despliegue de Base de Datos:</h4>
+
+![Database-Evidence](assets/chapter-5/sprint4-database-evidence.png)
+
+<h4>Despliegue de Landing Page:</h4>
+
+![Landing-Page-Evidence](assets/chapter-5/sprint4-landing-page-evidence.png)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<p>
+  <strong>Resumen:</strong><br>
+  El equipo colaboró mediante GitHub, WhatsApp y reuniones de Google Meet durante el Sprint. Las actividades principales se centraron en completar el backend, adaptar el frontend al nuevo API y finalizar la Landing Page con la sección About the Product.
+</p>
+
+<h4>Evidencia de Colaboración:</h4>
+<ul>
+  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
+  <li>Captura de pantalla de frontend desplegado evidenciando conexión con el backend</li>
+  <li>Captura de pantalla de backend desplegado mostrando la integración con la base de datos</li>
+  <li>Captura de pantalla de base de datos desplegada</li>
+  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
+</ul>
+
+<h4>Principales Herramientas de Comunicación:</h4>
+<ul>
+  <li>GitHub (control de versiones y manejo de issues)</li>
+  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
+  <li>Google Meet (reuniones de planificación de sprint)</li>
+</ul>
+
 # Conclusiones
 
 * El proyecto FuelTrack propuso una solución práctica para mejorar la gestión de pedidos de combustible, partiendo de una comprensión real de las necesidades del mercado y los usuarios. La propuesta de valor se validó con herramientas ágiles como Lean UX, entrevistas y análisis de la competencia, lo que permitió definir un producto enfocado en resolver problemas de eficiencia y comunicación.
@@ -752,29 +1370,58 @@ Durante el Sprint 2, el equipo se dedicó a realizar el front-end del proyecto, 
 
 * El desarrollo se gestionó con un enfoque iterativo, lo que permitió avanzar por etapas, validar resultados y hacer mejoras continuas, asegurando que el producto final respondiera tanto a las expectativas de los usuarios como a los objetivos de negocio de FuelTrack.
 
+* El equipo demostró una buena coordinación y colaboración, utilizando herramientas de comunicación y control de versiones para mantener un flujo de trabajo eficiente. La experiencia adquirida en este proyecto sienta las bases para futuros desarrollos y mejoras en la plataforma.
+
+* Respecto a la API REST y la base de datos, se logró implementar una estructura funcional que permite la gestión eficiente de pedidos, notificaciones y otros aspectos clave del sistema. La integración entre el frontend y backend se realizó con éxito, garantizando una experiencia de usuario completa.
+
+---
+
+# About the Team
+
+![About the Team](assets/chapter-5/about-the-team.png)
+
+- Link About the Team: [https://acortar.link/3xN3mu ](https://acortar.link/3xN3mu )
+
+---
+
+# About the Product
+
+![About the Product](assets/chapter-5/about-the-product.png)
+
+- Link About the Product: [https://acortar.link/gbokKS](https://acortar.link/gbokKS)
+
+---
+
 # Anexos
 
 - Landing Page Desplegada: https://fueltrack-open-landing.vercel.app/
+
 - Landing Pages y Web App Wireframes y Mockup: https://www.figma.com/design/rHWFnnAJfePrXDqeJOd6xR/Open-Source---Landing-y-Web-App?node-id=0-1&t=cTJU9vKhzmeoOGoZ-1
+
+- Backend Desplegado: https://fueltrack-backend-production.up.railway.app/swagger-ui/index.html
+
+- Frontend Desplegado: https://fueltrack-frontend.vercel.app/login
+
+---
 
 # Bibliografía
 
- Interaction Design Foundation. (s.f.). A simple introduction to Lean UX. Recuperado de https://www.interactiondesign.org/literature/article/a-simple-introduction-to-lean-ux
+ - Interaction Design Foundation. (s.f.). A simple introduction to Lean UX. Recuperado de https://www.interactiondesign.org/literature/article/a-simple-introduction-to-lean-ux
  
- Baymard Institute. (s.f.). The best practices and key principles of UX design. Recuperado de
+ - Baymard Institute. (s.f.). The best practices and key principles of UX design. Recuperado de
  https://baymard.com/learn/ux-design-principles
  
- Laubheimer, P. (2022, abril 10). Information architecture: Study guide. Nielsen Norman Group. Recuperado de
+ - Laubheimer, P. (2022, abril 10). Information architecture: Study guide. Nielsen Norman Group. Recuperado de
  https://www.nngroup.com/articles/ia-study-guide/
  
- UXPin. (2024, agosto). Design consistency guide: UI and UX best practices. Recuperado de
+ - UXPin. (2024, agosto). Design consistency guide: UI and UX best practices. Recuperado de
  https://www.uxpin.com/studio/blog/guide-design-consistency-best-practices-ui-ux-designers/
  
- CareerFoundry. (2023, enero 5). A beginner’s guide to information architecture in UX. Recuperado de
+ - CareerFoundry. (2023, enero 5). A beginner’s guide to information architecture in UX. Recuperado de
  https://careerfoundry.com/en/blog/ux-design/a-beginners-guide-to-information-architecture/
  
- Contentsquare. (2024, octubre). What is Lean UX? The 3 key phases of Lean UX design. Recuperado de
+ - Contentsquare. (2024, octubre). What is Lean UX? The 3 key phases of Lean UX design. Recuperado de
  https://contentsquare.com/guides/ux/lean/
  
- UX Design Institute. (2022, noviembre 15). What is Lean UX and why does it matter? A complete guide.
+ - UX Design Institute. (2022, noviembre 15). What is Lean UX and why does it matter? A complete guide.
  Recuperado de https://www.uxdesigninstitute.com/blog/what-is-lean-ux/

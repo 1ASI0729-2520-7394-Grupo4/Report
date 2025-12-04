@@ -1,4 +1,4 @@
-# Capitulo III: Requirements Specifications
+# Capítulo III: Requirements Specifications
 
 ## 3.1 User Stories
 
@@ -66,7 +66,7 @@
       <td>US08</td>
       <td>Registrar información de pago</td>
       <td>Como solicitante, quiero ingresar la información de los pagos correspondientes para validar el pedido ante el proveedor.</td>
-      <td><b>Escenario 1: Registro exitoso de depósitos</b> <br/> Dado que el solicitante ingresa la información depósitos,<br/>Cuando registra el pedido,<br/>Estos quedan vinculados a el.<br/><br/><b>Escenario 2: Validación del formulario de ingreso de depósitos</b> <br/> Dado que el solicitante intenta los datos del depósito,<br/>Cuando excede el límite de caracteres,<br/>Entonces el sistema muestra un mensaje de error.<br/><br/><b>Escenario 3: Validación de depósitos ya registrados</b> <br/> Dado que el solicitante ingresa un depósito con un número de operación repetido,<br/>Cuando intenta seguir con el registro,<br/>Entonces el sistema notifica el error.</td>
+      <td><b>Escenario 1: Registro exitoso de depósitos</b> <br/> Dado que el solicitante ingresa la información de depósitos,<br/>Cuando registra el pedido,<br/>Estos quedan vinculados a él.<br/><br/><b>Escenario 2: Validación del formulario de ingreso de depósitos</b> <br/> Dado que el solicitante intenta ingresar los datos del depósito,<br/>Cuando excede el límite de caracteres,<br/>Entonces el sistema muestra un mensaje de error.<br/><br/><b>Escenario 3: Validación de depósitos ya registrados</b> <br/> Dado que el solicitante ingresa un depósito con un número de operación repetido,<br/>Cuando intenta seguir con el registro,<br/>Entonces el sistema notifica el error.</td>
       <td>EP02</td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@
       <td>
         <b>Escenario 1: Aprobación de pedido con depósitos válidos</b><br/>
         Dado que el proveedor tiene el pago completo del pedido,<br/>
-        Cuando intenta lo aprueba,<br/>
+        Cuando intenta aprobarlo,<br/>
         Entonces el estado cambia a “Aprobado”.<br/><br/>
         <b>Escenario 2: No aprobar el pedido por pago incompleto</b><br/>
         Dado que el proveedor no cuenta con los depósitos suficientes para completar el pago del pedido,<br/>
