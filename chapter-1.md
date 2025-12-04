@@ -2,7 +2,7 @@
   <img src="assets/chapter-1/logo.jpg" alt="Logo de la Universidad Peruana de Ciencias Aplicadas"/>  
   <h2>Informe de Trabajo Final</h2>
   <p><strong>Universidad:</strong> Universidad Peruana de Ciencias Aplicadas</p>
-  <p><strong>Ciclo:</strong> 2025-20</p>
+  <p><strong>Periodo:</strong> 202520</p>
   <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
   <p><strong>Sección:</strong> 1ASI0729-2520-7394</p>
   <p><strong>Profesor:</strong> Hugo Allan Mori Paiva</p>
@@ -18,19 +18,15 @@
     </tr>
     <tr>
       <td>u202324041</td>
-      <td>Awad Vargas Giorgio Marzouk</td>
+      <td>Awad Vargas, Giorgio Marzouk</td>
     </tr>
     <tr>
       <td>u201817507</td>
-      <td>Sánchez Arenas Manuel Ángel</td>
+      <td>Sanchez Arenas, Manuel Ángel</td>
     </tr>
     <tr>
-      <td>u20231c019</td>
-      <td>Ortega Muñoz Saul</td>
-    </tr>
-    <tr>
-      <td>u202320684</td>
-      <td>Ponce Perales Alberto Alejandro</td>
+      <td>u20211D760</td>
+      <td>Paico Calderon, July Zelmira</td>
     </tr>
   </table>
 </div>
@@ -112,6 +108,28 @@
         5.2.3.8. Team Collaboration Insights during Sprint.
       </td>
     </tr>
+    <tr>
+      <td>TF</td>
+      <td>04/12/2025</td>
+      <td>
+        - Giorgio Marzouk Awad Vargas <br>
+        - Manuel Ángel Sánchez Arenas <br>
+        - July Zelmira Paico Calderon
+      </td>
+      <td>
+        Se incluyeron los siguientes capítulos: <br>
+        5.2.4. Sprint 4 <br>
+        5.2.4.1. Sprint Planning 4.<br>
+        5.2.4.2. Aspect Leaders and Collaborators.<br>
+        5.2.4.3. Sprint Backlog 4. <br>
+        5.2.4.4. Development Evidence for Sprint Review.<br>
+        5.2.4.5. Execution Evidence for Sprint Review.<br>
+        5.2.4.6. Services Documentation Evidence for Sprint Review.<br>
+        5.2.4.7. Software Deployment Evidence for Sprint Review.<br>
+        5.2.4.8. Team Collaboration Insights during Sprint.<br><br>
+        Se actualizó la sección de Conclusiones y Anexos.
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -124,10 +142,10 @@
 **Link del repositorio de la Landing Page:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/landing-page](https://github.com/1ASI0729-2520-7394-Grupo4/landing-page)
 
-**Link del repositorio del fronted:**  
+**Link del repositorio del Fronted:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend](https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-frontend)
 
-**Link del repositorio del backend:**  
+**Link del repositorio del Backend:**  
 [https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend](https://github.com/1ASI0729-2520-7394-Grupo4/fueltrack-backend)
 
 **Link de los repositorios de la organización:**  
@@ -146,8 +164,6 @@ A continuación, se muestra un gráfico de barras con la cantidad de commits rea
 El siguiente gráfico muestra una línea de tiempo con la evolución semanal de los commits realizados por todos los miembros:
 
 <img src="assets/chapter-1/Commits.png" alt="Commits">
-
-
 
 ## Contenido
 
@@ -248,6 +264,15 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
       - [5.2.3.6 Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7 Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8 Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4 Sprint 4](#524-sprint-4)
+      - [5.2.4.1 Sprint Planning](#5241-sprint-planning-4)
+      - [5.2.4.2 Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3 Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4 Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5 Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6 Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7 Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8 Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -274,14 +299,18 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
         <b>Giorgio Awad</b><br>
         TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix.<br>
         TP1: Explique con claridad la funcionalidad de los componentes Notifications y Providers, detallando su aporte técnico y su integración con el sistema. Utilice un lenguaje técnico comprensible, apoyándose en ejemplos visuales para evidenciar el funcionamiento.<br>
+        TF: En esta entrega me encargué de finalizar ciertos endpoints del backend lo que llevó a tener que comunicar a mi equipo su funcionalidad.<br><br>
         <b>Manuel Sánchez</b><br>
         TB1: Como el miembro con experiencia en el rubro de venta de combustibles, tuve que detallar la información a mis compañeros para poder compartir una misma visión al hacer nuestra propuesta.<br>
         TP1: Presente de manera estructurada el desarrollo del Order, Terminals y el Web App Layout, resaltando cómo estos módulos mejoran la navegación y experiencia del usuario. Comunique con fluidez los roles del equipo y la planificación del sprint.<br>
+        TF: En esta entrega me encargué de adaptar el front para funcionar con los endpoints de autorización respectivos del  backend. Para ofrecer un trabajo de calidad, mantuve una comunicación constante con el equipo para asegurar la correcta integración.<br><br>
         <b>Saul Ortega</b><br>
-        TB1: Para esta entrega, me encargué de realizar entrevistas a usuarios dentro del Lean UX Process, así como también del análisis de la información obtenida. Posteriormente, expuse los hallazgos al equipo y a los stakeholders, adaptando mi comunicación oral al tipo de audiencia para asegurar una comprensión clara y efectiva de los resultados.<br>
+        TB1: Para esta entrega, me encargué de realizar entrevistas a usuarios dentro del Lean UX Process, así como también del análisis de la información obtenida. Posteriormente, expuse los hallazgos al equipo y a los stakeholders, adaptando mi comunicación oral al tipo de audiencia para asegurar una comprensión clara y efectiva de los resultados.<br><br>
         <b>Alberto Ponce</b><br>
         TB1: En esta entrega participé en la recoleccion de las entrevistas, la construcción de las User Personas, definiendo perfiles claros a partir de las entrevistas. También colaboré en la User Task Matrix, priorizando las tareas según frecuencia e importancia. Asimismo, apoyé en el diseño de los User Journey Mapping, destacando puntos de dolor y motivaciones de los usuarios.<br>
-        TP1: Expuse el proceso de creación de las vistas de Login y Register, además de explicar el despliegue del software en Vercel y las evidencias de colaboración del equipo. Utilice lenguaje formal y apoyos visuales claros para sustentar sus aportes.<br>
+        TP1: Expuse el proceso de creación de las vistas de Login y Register, además de explicar el despliegue del software en Vercel y las evidencias de colaboración del equipo. Utilice lenguaje formal y apoyos visuales claros para sustentar sus aportes.<br><br>
+        <b>July Paico</b><br>
+        TF: En esta entrega me encargué principalmente de comunicar al equipo los endpoints relacionado a la seguridad y autenticación que desarrollé en el backend. Realicé presentaciones orales para explicar su funcionamiento y asegurar que los miembros responsables comprendieran cómo integrarlos correctamente en el frontend.
       </td>
       <td>
         Consideramos que la comunicación oral fue aplicada de manera clara y estratégica, logrando exponer hallazgos, transmitir insights y sostener discusiones con efectividad frente a diferentes audiencias. Gracias a ello, se alcanzó una comprensión común del problema y se sentaron bases sólidas para proponer soluciones innovadoras en el marco del Lean UX Process.
@@ -293,14 +322,18 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
         <b>Giorgio Awad</b><br>
         TB1: Para esta entrega, me encargué de redactar las estrategias y tácticas frente a competidores, así como también elaborar el diseño de entrevistas y su respectivo registro. Asimismo, elaboré el User Task Matrix. <br>
         TP1: En esta entrega redacté la sección del Development Evidence, Execution Evidence y el Services Documentation, asegurando que la información técnica de los componentes Notifications y Providers fuera comprensible tanto para el equipo como para el lector del informe. Utilicé un lenguaje claro, estructurado y con soporte visual para facilitar la comprensión del desarrollo.<br>
+        TF: Mi equipo y yo tuvimos la tarea de documentar apropiadamente en el informe acerca de los endpoints desarrollados en el backend para su correcta integración con el frontend. Para ello, describo brevemente los endpoints desarrollados y muestro evidencia de ello.<br><br>
         <b>Manuel Sanchez</b><br>
         TB1: Para esta entrega le di prioridad a la explicación de nuestra propuesta, problemática, hipótesis, etc.<br>
         TP1: Elaboré las secciones del Sprint Planning, Aspect Leaders y Collaborators, además de documentar el desarrollo de los módulos Orders, Terminals y el Web App Layout. Cuidé la estructura del texto para mantener una secuencia lógica y una presentación clara de las responsabilidades y avances del equipo.<br>
+        TF: En esta entrega me encargué de documentar en el informe aspectos relacionados al frontend, como la integración con los endpoints del backend, describiendo claramente los cambios principales que han sido implementados.<br><br>
         <b>Saul Ortega</b><br>
-        TB1: Para esta entrega, elaboré reportes y resúmenes de los hallazgos de entrevistas, adaptando el lenguaje y nivel de detalle según la audiencia para asegurar una comunicación escrita clara y efectiva..<br>
+        TB1: Para esta entrega, elaboré reportes y resúmenes de los hallazgos de entrevistas, adaptando el lenguaje y nivel de detalle según la audiencia para asegurar una comunicación escrita clara y efectiva.<br><br>
         <b>Alberto Ponce</b><br>
         TB1: Para esta entrega me encargué de redactar y organizar la información de las User Personas. También participé en la documentación del User Task Matrix y del User Journey Mapping, resumiendo hallazgos de manera estructurada. Adapté mi redacción para mantener un lenguaje profesional, preciso y accesible.<br>
-        TP1: Redacté las secciones de Software Deployment Evidence y Team Collaboration Insights, además de describir el funcionamiento de las vistas Login y Register.<br>
+        TP1: Redacté las secciones de Software Deployment Evidence y Team Collaboration Insights, además de describir el funcionamiento de las vistas Login y Register.<br><br>
+        <b>July Paico</b><br>
+        TF: Colaboré con las secciones del informe que evidencia el desarrollo del backend relacionado a la seguridad y autenticación. Me aseguré de que la documentación fuera clara y detallada, facilitando la comprensión de los endpoints desarrollados y su integración con el frontend.
       </td>
       <td>
         La comunicación escrita se utilizó de forma clara y estratégica, adaptando el nivel de detalle y el lenguaje según la audiencia. Esto permitió documentar hallazgos, explicar la problemática y presentar propuestas de manera efectiva, logrando que toda la información fuera comprendida y validada en el marco del Lean UX Process.
