@@ -3600,23 +3600,395 @@ Durante el Sprint 3, el equipo logró realizar el primer despliegue del backend.
   
 #### 5.2.3.8. Team Collaboration Insights during Sprint
  
-<p>
-    <strong>Resumen:</strong><br>
-    El equipo colaboró mediante GitHub, WhatsApp y reuniones de Google Meet durante el Sprint. Las actividades principales se centraron en el desarrollo y despliegue del backend así como el avance del frontend.
-</p>
+### 5.2.4. Sprint 4
+Durante el Sprint 4, el equipo de desarrollo de FuelTrack centró sus esfuerzos en culminar el flujo operativo correspondiente al rol del proveedor, asegurando una gestión completa del ciclo de los pedidos desde su recepción hasta su cierre. En esta iteración se priorizó la integración total entre el frontend y el backend, fortaleciendo la interacción con los servicios desplegados en la nube y garantizando una experiencia fluida y funcional. Asimismo, se realizaron pruebas end-to-end para validar la estabilidad del sistema y se optimizó la arquitectura para facilitar futuras ampliaciones. Gracias a la colaboración constante del equipo y al enfoque orientado a objetivos, se logró entregar un incremento de software plenamente funcional, listo para ser validado por los usuarios finales.
 
-<h4>Evidencia de Colaboración:</h4>
-<ul>
-  <li>Captura de pantalla de commits en GitHub mostrando contribuciones del equipo.</li>
-  <li>Conversaciones de WhatsApp sobre coordinación de secciones y ajustes de diseño.</li>
-</ul>
+#### 5.2.4.1. Sprint Planning 4
 
-<h4>Principales Herramientas de Comunicación:</h4>
-<ul>
-  <li>GitHub (control de versiones y manejo de issues)</li>
-  <li>WhatsApp (comunicación diaria y aclaraciones rápidas)</li>
-  <li>Google Meet (reuniones de planificación de sprint)</li>
-</ul>
+<table border>
+    <tr align="center">
+        <td><strong>Sprint #</strong></td>
+        <td><strong>Sprint 4</strong></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr align="center">
+        <td>Date</td>
+        <td>23/11/2025</td>
+    </tr>
+    <tr align="center">
+        <td>Time</td>
+        <td>11:00 AM</td>
+    </tr>
+    <tr align="center">
+        <td>Location</td>
+        <td>Meet</td>
+    </tr>
+    <tr align="center">
+        <td>Prepared by</td>
+        <td>Manuel Angel Sanchez Arenas</td>
+    </tr>
+    <tr align="center">
+        <td>Attendess (to planning meeting)</td>
+        <td>
+          Manuel Angel Sanchez Arenas - U201817507<br>
+          Giorgio Marzouk Awad Vargas - U202324041<br>
+          July Zelmira Paico Calderon - U20211D760
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Review Summary</td>
+        <td>
+        Durante el Sprint 3, el equipo de FuelTrack implementó la primera fase del backend, desplegó la base de datos MySQL e integró los endpoints principales para soportar las vistas del frontend. 
+        Se validó el consumo de datos desde el frontend mediante una API REST funcional, permitiendo navegar órdenes y visualizar información básica de control.
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 3 Retrospective Summary</td>
+        <td>
+        El equipo identificó la necesidad de mejorar la coordinación entre desarrollo de frontend y backend, así como documentar con mayor detalle los contratos de los servicios (request/response). 
+        Para el Sprint 4 se acordó reforzar las pruebas de integración end-to-end, mejorar la priorización de User Stories de alto impacto para el proveedor y consolidar la estrategia de despliegue continuo.
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 4 Goal</td>
+        <td>
+        Consolidar el flujo completo de gestión de pedidos del lado del proveedor, desde la visualización de pedidos pendientes hasta la asignación de transporte y la generación de reportes de ventas, 
+        asegurando la integración end-to-end con el frontend y fortaleciendo la estrategia de despliegue continuo en los entornos productivos.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">Sprint 4 User Stories</td>
+        <td>
+        US-10, US-11, US-12, US-13, US-19, US-25, US-26, US-27, US-14
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Sprint 4 Velocity</td>
+        <td>20</td>
+    </tr>
+    <tr align="center">
+        <td>Sum of Story Point</td>
+        <td>38</td>
+    </tr>
+</table>
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Team Member</th>
+      <th>GitHub Username</th>
+      <th>Backend</th>
+      <th>Frontend</th>
+      <th>Documentation</th>
+      <th>Testing & Integration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Manuel Angel Sanchez Arenas</td>
+      <td>manuels7a</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Giorgio Marzouk Awad Vargas</td>
+      <td>GiorgioAwad</td>
+      <td>C</td>
+      <td>C</td>
+      <td>L</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>July Zelmira Paico Calderon</td>
+      <td>u20211d760</td>
+      <td>C</td>
+      <td>L</td>
+      <td>C</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead align="center">
+    <tr>
+      <td colspan="2"><strong>Sprint #</strong></td>
+      <td colspan="5"><strong>Sprint 4</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>User Story</strong></td>
+      <td colspan="5"><strong>Work-Item / Task</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Id</strong></td>
+      <td><strong>Title</strong></td>
+      <td><strong>Task Id</strong></td>
+      <td><strong>Description</strong></td>
+      <td><strong>Estimation (Hours)</strong></td>
+      <td><strong>Assigned to</strong></td>
+      <td><strong>Status</strong></td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>US-10</td>
+      <td>Ver pedidos pendientes</td>
+      <td>W01</td>
+      <td>Implementar vista y endpoint para pedidos pendientes del proveedor.</td>
+      <td>4h</td>
+      <td>Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-11</td>
+      <td>Aprobar/Rechazar pedidos</td>
+      <td>W02</td>
+      <td>Acciones de aprobación/rechazo conectadas al backend.</td>
+      <td>6h</td>
+      <td>July</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-12</td>
+      <td>Marcar como despachado</td>
+      <td>W03</td>
+      <td>Transición del pedido + notificación al solicitante.</td>
+      <td>4h</td>
+      <td>Giorgio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-13</td>
+      <td>Cerrar pedido</td>
+      <td>W04</td>
+      <td>Finalización del pedido tras confirmación del cliente.</td>
+      <td>4h</td>
+      <td>Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-25</td>
+      <td>Asignar vehículo</td>
+      <td>W05</td>
+      <td>UI y lógica para asignar vehículo al pedido.</td>
+      <td>6h</td>
+      <td>July</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-26</td>
+      <td>Asignar conductor</td>
+      <td>W06</td>
+      <td>UI + reglas de negocio para asignar conductor.</td>
+      <td>6h</td>
+      <td>Giorgio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-27</td>
+      <td>Validar transporte disponible</td>
+      <td>W07</td>
+      <td>Validación de disponibilidad de vehículos.</td>
+      <td>8h</td>
+      <td>Manuel</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-19</td>
+      <td>Resumen de pedidos</td>
+      <td>W08</td>
+      <td>Dashboard de KPIs del proveedor.</td>
+      <td>6h</td>
+      <td>Giorgio</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US-14</td>
+      <td>Reporte de ventas</td>
+      <td>W09</td>
+      <td>Exportación de reporte en PDF.</td>
+      <td>6h</td>
+      <td>July</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+Durante el Sprint 4, el equipo se enfocó en completar el flujo de gestión de pedidos del proveedor y en fortalecer la lógica de negocio relacionada con la logística y los reportes. 
+Se implementaron nuevos endpoints en el backend y se ajustaron las vistas del frontend para soportar estos casos de uso.
+
+A continuación, se presenta una tabla de ejemplo para registrar los commits más relevantes del Sprint 4.  
+(**Nota:** reemplazar los IDs de commit y descripciones con los datos reales de GitHub.)
+
+<table border>
+  <thead>
+    <tr>
+      <th>Repositorio</th>
+      <th>Rama</th>
+      <th>ID de Commit</th>
+      <th>Mensaje de Commit</th>
+      <th>Descripción del Commit</th>
+      <th>Fecha de Commit</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+      <td>main</td>
+      <td>COMMIT_ID_1</td>
+      <td>feat: add pending-orders and approval endpoints</td>
+      <td>Implementación de endpoints para ver pedidos pendientes y aprobar/rechazar pedidos.</td>
+      <td>dd/mm/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-backend</td>
+      <td>main</td>
+      <td>COMMIT_ID_2</td>
+      <td>feat: transport assignment and summary endpoints</td>
+      <td>Endpoints para asignar vehículo y conductor, validar disponibilidad y mostrar resumen de pedidos.</td>
+      <td>dd/mm/2025</td>
+    </tr>
+    <tr>
+      <td>1ASI0729-2520-7394-Grupo4/fueltrack-frontend</td>
+      <td>main</td>
+      <td>COMMIT_ID_3</td>
+      <td>feat: provider dashboard integration</td>
+      <td>Integración de vistas del proveedor con los nuevos endpoints de backend (pendientes, resumen, reportes).</td>
+      <td>dd/mm/2025</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4, el equipo completó la integración end-to-end de los flujos críticos para el proveedor, permitiendo gestionar pedidos desde su estado pendiente hasta el cierre, con asignación de vehículos y conductores.
+
+Principales evidencias de ejecución:
+
+- **Pedidos pendientes del proveedor:**  
+  Vista donde se muestran todos los pedidos en estado pendiente, con filtros y acciones para aprobar o rechazar.
+
+  ![Pedidos pendientes - Proveedor](assets/chapter-5/sprint4-provider-pending-orders.png)
+  <!-- Reemplazar el nombre del archivo por la captura real correspondiente -->
+
+- **Detalle de pedido y asignación de transporte:**  
+  Interfaz donde el proveedor puede asignar vehículo y conductor, validando la disponibilidad de transporte.
+
+  ![Asignación de transporte](assets/chapter-5/sprint4-transport-assignment.png)
+
+- **Resumen de pedidos y métricas clave:**  
+  Pantalla que muestra un resumen de pedidos gestionados, pedidos pendientes y métricas básicas de ventas para apoyar la toma de decisiones.
+
+  ![Resumen de pedidos proveedor](assets/chapter-5/sprint4-orders-summary.png)
+
+Estas evidencias demuestran que el flujo de negocio del proveedor quedó funcional y conectado con la capa de datos y la API del sistema.
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4, se actualizó la documentación de servicios para reflejar todos los endpoints relacionados con la gestión de pedidos del proveedor, la asignación de transporte y la generación de reportes.
+
+Las principales actividades de documentación fueron:
+
+- Actualización del contrato de la API en Swagger/OpenAPI para los endpoints de:
+  - Listado de pedidos pendientes.
+  - Aprobación/rechazo de pedidos.
+  - Marcado de pedido como despachado.
+  - Cierre de pedido.
+  - Asignación de vehículo y conductor.
+  - Resumen de pedidos del proveedor.
+  - Generación de reportes de ventas.
+
+- Inclusión de ejemplos de request y response para cada endpoint, considerando códigos de estado HTTP y mensajes de error.
+
+A continuación se deja un espacio para incorporar la captura de la documentación actualizada de la API:
+
+![Documentación de servicios Sprint 4](assets/chapter-5/sprint4-openapi-documentation.png)
+<!-- Insertar aquí una captura real de la documentación Swagger/OpenAPI del backend -->
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 4, se consolidó la estrategia de despliegue continuo de la aplicación integrada de FuelTrack, abarcando tanto el backend como el frontend. 
+El objetivo fue asegurar que los cambios desarrollados durante el sprint se publiquen de forma rápida y confiable en los entornos productivos.
+
+**Infraestructura de despliegue implementada:**
+
+- **Backend (API REST):**
+  - Plataforma de despliegue: AWS App Runner.
+  - URL de los servicios RESTful (Swagger):  
+    https://ftye3mrjt4.us-east-2.awsapprunner.com/swagger/index.html  
+    (Reemplazar por la URL final si hubiera cambios de entorno.)
+
+- **Frontend (Aplicación Web):**
+  - Plataforma de despliegue: Vercel.
+  - URL del frontend para el segmento proveedor/solicitante:  
+    https://fueltrack-frontend.vercel.app/login/  
+    (Mantener/actualizar según la URL definitiva de producción.)
+
+**Detalles del despliegue y mejoras en este Sprint:**
+
+- Configuración de variables de entorno para conectar el frontend al backend desplegado en AWS.
+- Validación de los flujos completos de proveedor (pendientes, aprobación, despacho, cierre, asignación de transporte y resumen de pedidos) contra la API productiva.
+- Ajustes menores en CORS y manejo de errores para garantizar una integración estable.
+
+**Evidencia (capturas por completar):**
+
+- Captura del panel de despliegue de AWS App Runner mostrando la última versión del servicio.
+- Captura del panel de Vercel mostrando el despliegue del frontend con el build del Sprint 4.
+- Captura del Swagger/OpenAPI consumido desde el entorno productivo.
+
+(Insertar aquí las capturas reales, por ejemplo:)
+
+![Deployment Backend Sprint 4](assets/chapter-5/sprint4-backend-deployment.png)  
+![Deployment Frontend Sprint 4](assets/chapter-5/sprint4-frontend-deployment.png)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+**Resumen:**
+
+Durante el Sprint 4, el equipo de FuelTrack mantuvo una colaboración constante para cerrar el flujo completo del proveedor e integrar correctamente el backend con el frontend. 
+Se utilizaron de forma activa GitHub, WhatsApp y Google Meet para coordinar tareas, resolver bloqueos y revisar el avance de las User Stories priorizadas.
+
+El enfoque principal del trabajo colaborativo estuvo en:
+
+- Alinear la lógica de negocio de pedidos y transporte entre backend y frontend.
+- Revisar en conjunto los criterios de aceptación de las User Stories del proveedor.
+- Validar flujos end-to-end directamente sobre el entorno desplegado (AWS + Vercel).
+
+**Evidencia de Colaboración (esqueleto para completar):**
+
+- Capturas de conversaciones en WhatsApp donde se coordinan:
+  - Asignación de tareas W01–W09.
+  - Definición de criterios de aceptación y correcciones de bugs.
+- Capturas de reuniones en Google Meet (screenshots) donde se realiza:
+  - Revisión del Sprint Backlog 4.
+  - Demo interna de los flujos de proveedor y resumen de pedidos.
+- Capturas de GitHub donde se observarán:
+  - Pull requests revisadas y aprobadas por el equipo.
+  - Commits asociados a las User Stories del Sprint 4.
+  - Uso de branches y mensajes de commit con Conventional Commits.
+
+Ejemplo de espacio para evidencias:
+
+![Colaboración en GitHub Sprint 4](assets/chapter-5/sprint4-github-collaboration.png)  
+![Colaboración en WhatsApp Sprint 4](assets/chapter-5/sprint4-whatsapp-collaboration.png)  
+![Reuniones en Meet Sprint 4](assets/chapter-5/sprint4-meet-collaboration.png)
+
+Estas evidencias muestran cómo la coordinación del equipo permitió integrar de forma efectiva los componentes desarrollados y entregar un incremento de software listo para ser desplegado.
+
 
 # Conclusiones
 
